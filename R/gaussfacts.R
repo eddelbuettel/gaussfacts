@@ -6,26 +6,24 @@
     if (!file.exists(filename)) stop("Hm, file", filename, "is missing.", call.=FALSE)
     data <- read.csv(filename, stringsAsFactors=FALSE)
     data[ data[, "vote_yes"] >= 5, ]
-
-    ## also unescape cf http://stackoverflow.com/questions/5060076/
 }
 
-##' Function to display a randomly chosen fact about Richard M. Stallman
+##' Function to display a randomly chosen fact about Carl Friedrich Gauss
 ##'
 ##' This function displays a randomly chosen line from the included
-##' data set of of random \sQuote{facts} about Richard M. Stallman.
-##' The function is a port of the GNU Octave function \code{fact}
-##' doing the same, and written by Jordi Gutiérrez Hermoso based on
-##' the (now defunct) site \url{http://www.stallmanfacts.com}.
-##' @title Display a Random Fact about Richard M. Stallman
+##' data set of of random \sQuote{facts} about Carl Friedrich Gauss.
+##' It is based on corpus curated by Mike Cavers via the
+##' \url{http://gausfacts.com} site, and kindly made available.
+##' @title Display a Random Fact about Carl Friedrich Gauss
 ##' @return A character vector containing one randomly selected line
-##'  from the included file. It is of class \code{rmsfact} for
-##'  which an S3 print method will be invoked.
+##'  from the included file. It is of class \code{gaussfact} for
+##' which an S3 print method will be invoked.
 ##' @author Dirk Eddelbuettel
-##' @seealso \code{\link[fortunes:fortunes]{fortune}}
+##' @seealso \code{\link[fortunes:fortunes]{fortune}},
+##'   \code{\link[rmdfacts:rmsfacts]{rmsfacts}}
 ##' @examples
 ##'   set.seed(123)
-##'   rmsfact()
+##'   gaussfact()
 gaussfact <- function() {
     if (is.null(.gf.env$gf.data)) .gf.env$gf.data <- .read.gf()
     gf.data <- .gf.env$gf.data
@@ -37,7 +35,7 @@ gaussfact <- function() {
     return(v)
 }
 
-##' @rdname rmsfact
+##' @rdname gaussfact
 ##' @param x Default object for \code{print} method
 ##' @param width Optional column width parameter
 ##' @param ... Other optional arguments
