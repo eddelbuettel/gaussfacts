@@ -1,441 +1,441 @@
-"","pid","story","vote_yes","vote_no"
-"1",3,"Gauss didn’t discover the normal distribution, nature conformed to his will.",267,49
-"2",4,"Gauss can trisect an angle with a straightedge and compass.",33,8
-"3",5,"Gauss can get to the other side of a Möbius strip.",269,39
-"4",6,"“Uncountably Infinite” was a phrase coined to explain the intelligence of Gauss.",53,14
-"5",7,"There are no Fermat Primes greater than 65,537 because Gauss saw that Fermat was on to something, and well…he put an end to that.",82,8
-"6",8,"For Gauss, arithmetic is consistent AND complete.",41,5
-"7",9,"It only takes Gauss 4 minutes to sing “Aleph-Null Bottles of Beer on the Wall”.",175,36
-"8",10,"When Gauss tells you that he’s lying, he’s telling the truth.",347,25
-"9",11,"Gauss once played himself in a zero-sum game and won $50.",440,28
-"11",13,"Gauss did not prove theorems, he simply stared at them until they yielded their solutions.",44,12
-"12",14,"Occam’s Razor – The principle stating that the explanation of any phenomenon is equal to the explanation that came out of Gauss’ mouth.",23,8
-"13",15,"Gauss drinks his beer from a Klein bottle.",154,5
-"14",16,"For Gauss, there are no indefinite integrals.",21,8
-"15",17,"Gauss once started falling asleep in his complex analysis class. The result…singularities.",29,12
-"16",18,"Imaginary numbers are simply those that Gauss has not deemed worthy of existence.",33,20
-"17",19,"The shortest distance between two points is Gauss.",27,13
-"18",20,"Once, while playing chess, Gauss solved the Knights Problem in six moves.",34,3
-"19",21,"Gauss is neither a Frequentist nor a Bayesian. For Gauss, the probability is always 1.",26,8
-"20",22,"Fermat once made Gauss angry. The result - Fermat’s Last Theorem.",440,56
-"21",23,"In Gauss’ mind, there is no such branch of mathematics as “Number Theory”. This is because he knows it as “Number Facts”.",53,16
-"22",24,"Gauss can construct transcendental numbers only using a compass.",38,5
-"23",25,"Parallel lines meet where Gauss tells them to.",173,7
-"24",26,"Some problems are NP because Gauss doesn't like computers.",67,23
-"25",27,"Gauss never runs out of room in the margin.",406,17
-"26",28,"Gauss can write irrationals as the ratio of 2 integers.",36,7
-"27",29,"Gauss can square the circle and then transform it into the hyper-sphere.",30,4
-"29",31,"An elegant proof is one line long. Gauss' elegant proofs are one word long.",61,9
-"30",32,"Gauss doesn't look for roots of equations, they come to him.",57,3
-"31",33,"There are no theorems, just a list of propositions Gauss allows to be true.",48,13
-"32",34,"When Gauss integrates he doesn't need to add a constant.",146,74
-"33",35,"Hilbert put forward 23 unsolved problems because he hadn't properly read Gauss' notebooks.",106,21
-"34",36,"Gauss knows the topological difference between a doughnut and a coffee cup.",29,6
-"35",37,"Gauss can divide by zero.",104,62
-"37",39,"Primes that aren't Gaussian primes get teased.",54,6
-"38",40,"If Gauss had to walk 100 metres, and half the remaining distance, then half the remaining distance again, and so on, he'd get there.",116,37
-"39",41,"Erdos believed God had a book of all perfect mathematical proofs. God believes Gauss has such a book. ",525,34
-"40",42,"Gauss has Hilbert hotels on Mayfair and Park Lane.",65,6
-"41",43,"God does not play dice, unless Gauss promises to let him win once in a while.",184,12
-"45",49,"Q: What's purple and commutes?
+"pid","story","vote_yes","vote_no"
+3,"Gauss didn’t discover the normal distribution, nature conformed to his will.",267,49
+4,"Gauss can trisect an angle with a straightedge and compass.",33,8
+5,"Gauss can get to the other side of a Möbius strip.",269,39
+6,"“Uncountably Infinite” was a phrase coined to explain the intelligence of Gauss.",53,14
+7,"There are no Fermat Primes greater than 65,537 because Gauss saw that Fermat was on to something, and well…he put an end to that.",82,8
+8,"For Gauss, arithmetic is consistent AND complete.",41,5
+9,"It only takes Gauss 4 minutes to sing “Aleph-Null Bottles of Beer on the Wall”.",175,36
+10,"When Gauss tells you that he’s lying, he’s telling the truth.",347,25
+11,"Gauss once played himself in a zero-sum game and won $50.",440,28
+13,"Gauss did not prove theorems, he simply stared at them until they yielded their solutions.",44,12
+14,"Occam’s Razor – The principle stating that the explanation of any phenomenon is equal to the explanation that came out of Gauss’ mouth.",23,8
+15,"Gauss drinks his beer from a Klein bottle.",154,5
+16,"For Gauss, there are no indefinite integrals.",21,8
+17,"Gauss once started falling asleep in his complex analysis class. The result…singularities.",29,12
+18,"Imaginary numbers are simply those that Gauss has not deemed worthy of existence.",33,20
+19,"The shortest distance between two points is Gauss.",27,13
+20,"Once, while playing chess, Gauss solved the Knights Problem in six moves.",34,3
+21,"Gauss is neither a Frequentist nor a Bayesian. For Gauss, the probability is always 1.",26,8
+22,"Fermat once made Gauss angry. The result - Fermat’s Last Theorem.",440,56
+23,"In Gauss’ mind, there is no such branch of mathematics as “Number Theory”. This is because he knows it as “Number Facts”.",53,16
+24,"Gauss can construct transcendental numbers only using a compass.",38,5
+25,"Parallel lines meet where Gauss tells them to.",173,7
+26,"Some problems are NP because Gauss doesn't like computers.",67,23
+27,"Gauss never runs out of room in the margin.",406,17
+28,"Gauss can write irrationals as the ratio of 2 integers.",36,7
+29,"Gauss can square the circle and then transform it into the hyper-sphere.",30,4
+31,"An elegant proof is one line long. Gauss' elegant proofs are one word long.",61,9
+32,"Gauss doesn't look for roots of equations, they come to him.",57,3
+33,"There are no theorems, just a list of propositions Gauss allows to be true.",48,13
+34,"When Gauss integrates he doesn't need to add a constant.",146,74
+35,"Hilbert put forward 23 unsolved problems because he hadn't properly read Gauss' notebooks.",106,21
+36,"Gauss knows the topological difference between a doughnut and a coffee cup.",29,6
+37,"Gauss can divide by zero.",104,62
+39,"Primes that aren't Gaussian primes get teased.",54,6
+40,"If Gauss had to walk 100 metres, and half the remaining distance, then half the remaining distance again, and so on, he'd get there.",116,37
+41,"Erdos believed God had a book of all perfect mathematical proofs. God believes Gauss has such a book. ",525,34
+42,"Gauss has Hilbert hotels on Mayfair and Park Lane.",65,6
+43,"God does not play dice, unless Gauss promises to let him win once in a while.",184,12
+49,"Q: What's purple and commutes?
 A: Whatever Gauss tells us it is.",47,12
-"46",50,"Gauss never has an underfull hbox (badness 10000) warning.",146,27
-"47",51,"For gauss, correlation implies causation.",34,18
-"48",52,"Only gauss knows both the exact location and exact momentum of a particle simultaneously.",92,16
-"49",53,"One time, Gauss solved the general quintic equation in radicals, but he decided we weren't worthy of the solution.",34,11
-"50",54,"Gauss can see all 11 dimensions and can create more whenever he wants.",30,11
-"52",56,"You know that theorem you just proved in your thesis? 
+50,"Gauss never has an underfull hbox (badness 10000) warning.",146,27
+51,"For gauss, correlation implies causation.",34,18
+52,"Only gauss knows both the exact location and exact momentum of a particle simultaneously.",92,16
+53,"One time, Gauss solved the general quintic equation in radicals, but he decided we weren't worthy of the solution.",34,11
+54,"Gauss can see all 11 dimensions and can create more whenever he wants.",30,11
+56,"You know that theorem you just proved in your thesis? 
 Gauss already proved it 200 years ago.",179,36
-"54",58,"Gauss considers infinity as the first non-trivial case in a proof by induction.",159,18
-"55",60,"There are no postulates, only theorems Gauss believes are unworthy of a proof.",105,38
-"56",61,"Gauss can vertex color every graph using a greedy algorithm in O(1) time.",24,5
-"57",62,"Gauss determined the orbit of Ceres with a quick skyward glance one night, but pretended to solve the orbit's eighth degree equation with three observations just to give the rest of us a chance.",45,5
-"58",63,"Gauss has an Erdos number of -1.",369,39
-"59",64,"Gauss can take the cross product of a vector and a scalar.",70,26
-"60",65,"Only Gauss knows whether Schrodinger's cat is dead or alive.  ",201,33
-"61",66,"Gauss's law actually states that everything in an enclosed surface has already been proven by Gauss.  ",110,29
-"63",70,"Gauss can break RSA, in his head.",59,7
-"64",71,"Gauss doesn't recognize complex numbers, they're all simple to him.  ",174,26
-"66",74,"Watching Riemann fail in proving his famous conjecture, Gauss got so angry that he smashed the unit interval in pieces. The result is nowadays known as the ""Cantor Set"".",86,17
-"67",75,"If you prove a theorem and Gauss proves a theorem, Gauss has proven more theorems than you.",34,19
-"68",76,"Gauss checked the infinity of primes by counting them, starting from the last.",337,44
-"69",77,"Gauss' open balls include their surface. ",21,14
-"70",78,"Gauss sorts in log n time.",121,8
-"71",79,"Gauss can let epsilon be less than zero.",269,38
-"72",80,"Gauss can prove by induction that all horses are of the same color.",72,11
-"73",83,"Unbounded sequences converge when Gauss is around. ",78,7
-"74",84,"A typical human brain has a magnetic field of 10^-9 to 10^-8 Gauss. The unit Gauss was invented to describe the magnetic field of Gauss' brain. Coincidence? I think not.",121,38
-"75",85,"Gauss shaves both himself and Bertrand Russell.",240,25
-"76",86,"Gauss can swap limits and integrals whenever he wants.",50,7
-"77",87,"Gauss can remove singularities by using Gaussian elimination.",31,8
-"79",89,"Whenever Gauss was tired, he'd just differentiate his need for sleep until it was back to 0.",34,16
-"81",90,"Gauss doesn't understand stochastic processes because he can predict random numbers.  ",42,2
-"82",91,"Gauss knows a polynomial-time algorithm for 3-SAT.",20,4
-"83",92,"Hilbert couldn't get a room at Gauss' Grand Hotel...it was booked solid.",95,24
-"85",94,"Gauss's integers are more awesome and complex than your integers.",27,10
-"86",95,"Gauss doesn't understand P?=NP. To him, everything is constant time.",65,9
-"88",98,"Chuck Norris learned from Gauss how to count up to infinity.",79,46
-"89",99,"Gauss classified the finite groups. When he was finished with the simple ones, there were none left.",40,7
-"91",101,"Gauss can choose an element in every subset of the real line.",33,4
-"92",102,"The universe is expanding so that entropy can increase faster than Gauss proves theorems.",79,19
-"93",104,"The set of theorems Gauss hasn't proved has measure zero.",47,27
-"94",105,"Let n be your age. Then lim n-> infinity (#{your theorems}/#{Gauss' theorems}) = 0. And Gauss is dead.",63,33
-"95",106,"Gauss saved the rainforest by omitting ""qed"" at the end of proofs.",193,51
-"97",109,"Gauss doesn't understand stochastic processes because he can predict random numbers.  ",227,21
-"98",110,"Gauss can invert matrices even if its determinant is zero.  ",46,15
-"99",111,"Gauss is the only one who can turn a circle inside out",21,7
-"100",112,"After reading a Gauss textbook, Maxwell decided to retire and dedicate its life to coffee.",62,10
-"101",113,"Gauss can differentiate e^x with respect to x down to zero.  ",49,22
-"102",114,"Gauss uses the squeeze theorem on oranges whenever he wants juice.  ",95,10
-"103",166,"Gauss hotel had room to accommodate all the guests from full Hilbert hotel, and still had rooms for all the reals.",40,14
-"104",116,"Gauss discovered the magnetic monopole ages ago, he just wanted to see how long it'll take us to find it.  ",51,16
-"105",117,"Gauss can take the line integral of a closed path over a gradient vector field and get 1. ",28,5
-"106",118,"Gauss counted all the ordinals",27,2
-"107",120,"Some series diverge because Gauss doesn't consider them worthy of summing up.",216,32
-"108",121,"Nature abhors singularities. But even it had to make way for Gauss to exist.",52,5
-"109",122,"Gauss doesn't need any axioms to prove theorems.",111,23
-"110",123,"If Gauss had published all his discoveries, there would be nothing left to prove.",92,18
-"111",124,"Gauss can walk through Konigsberg crossing its bridges once and only once",316,18
-"113",127,"Gauss can escape from a black hole.",39,13
-"114",138,"Gauss only took breaks from proving theorems to invent new algebras.",36,10
-"116",130,"Gauss knows Alice and Bob's shared secret. ",358,33
-"117",169,"Gauss created an engine more efficient than Carnot's",100,2
-"118",132,"Gauss can find a perfect cube larger than 8 in Fibonacci Sequence.",24,1
-"120",135,"The fact that Gauss is the greatest mathematician since antiquity is actually a theorem - A theorem proven by none other than one Carl Friedrich Gauss.",63,30
-"121",136,"Gauss can create electric field inside a conductor.",28,4
-"122",137,"Gauss can colour any given map such that no two adjacent areas share a colour, using only three colours.",20,10
-"123",139,"There is a 1:1 correspondence between the number of theorems Gauss has proved and the real numbers. ",99,29
-"125",141,"Gauss had to invent a new number to count his proofs: Aleph-Gauss.",80,29
-"126",142,"A mathematician is a device for turning coffee into theorems. Only Gauss can create theorems out of nowhere!",145,14
-"127",171,"Gauss considers using more than one digit a waste of time and thus writes numbers in base infinite.",112,22
-"128",168,"Gaussian Elimination is actually a secret martial arts technique.",194,42
-"129",146,"Gauss can read the Zodiac 340 cipher as in plain text, he just didn't publish the solution in order to save fun for us people.",13,6
-"131",148,"Gauss can walk beyond the speed of light, that's why we cannot see him, and why we think he has died.",39,33
-"132",149,"Gauss had already known the website 'Gauss Facts', so he saved his time for an autobiography.",34,11
-"133",150,"Gauss can measure the total Entropy in the universe",37,4
-"135",153,"Gauss proved Goldbach's Conjecture by checking each case.",47,9
-"137",154,"For Gauss, the limit always exists.",29,5
-"138",155,"Gauss can shave with Occam's razor.",187,13
-"139",156,"Gauss can solve the halting problem.",34,6
-"140",157,"Gauss solved the Twin Prime Conjecture by counting all of the Twin Primes until he found infinitely many.",32,3
-"142",159,"Gauss can colour any map using only one colour.",163,21
-"143",160,"Gauss's fundamental group is the monster group.",17,5
-"144",161,"Gauss didn't need to unify quantum mechanics and general relativity. He got the right theory from the start.",61,14
-"145",162,"When Carl Friedrich Gauss adds one, his number doesn't increase, all other numbers become smaller.",249,18
-"146",163,"Gauss developed Fractal Theory when he had broccoli for first time, but considered it obvious enough and didn't publish.",107,22
-"147",164,"Gauss gets definite values of indefinite integrals",31,10
-"149",167,"Gauss can calculate 100! only using one ""int"" variable in C.",25,19
-"150",172,"It's no secret Gauss was a child prodigy; his mother's womb inspired the divergence theorem.",38,5
-"151",173,"Gauss proved an omnipotent God since writing Q.E.D on a mirror.",39,14
-"153",175,"All theorems were once called ""The Gauss Theorem"", however Gauss allowed others to take credit so it wouldn't confuse everyone else.",134,29
-"154",176,"Gauss can solve a Rubik's cube in 3 moves.",37,10
-"155",177,"""Gauß's theorem"" is a pleonasm.",30,12
-"156",178,"When Gauss was thirsty, he used Banach–Tarski paradox to get more orange juice.",288,12
-"157",180,"Gauss can construct a pair of orthogonal Latin squares of order 6.",19,3
-"158",182,"Computer told Gauss the Eight-queens Puzzle has 92 answers,then Gauss showed it the 93rd one",27,8
-"160",184,"Gauss knows explicit well-orderings of the reals.",45,1
-"161",185,"Erdös used to say that he knew 37 different proofs of the Pythagorean Theorem.  Gauss knew 37 different proofs of the Riemann hypothesis, which he posed as an exercise to Bernhard Riemann while on his deathbed.",77,4
-"162",186,"Each of Gauss's fingerprints contains a proof of quadratic reciprocity.",52,5
-"163",187,"As a child, Gauss was instructed to sum the numbers from 1 to 100. He did this by summing the infinite series and then subtracting off every integer greater than 100, one by one, in his head.",295,43
-"165",189,"Gauss can comb the hair on a bowling ball.",44,9
-"167",191,"Gauss can recite all of pi - backwards.",287,64
-"169",193,"Gauss has observed the Higgs Boson.",49,15
-"170",195,"Gauss proved induction using a proof by induction.",86,28
-"171",197,"Gauss proved that the continuum hypothesis is not independent of his choice.",83,3
-"172",199,"They say Riemann is the name Gauss used to publish some unsatisfied papers. ",115,24
-"174",226,"Gauss can calculate the moments of the Cauchy-Lorentz distribution.",28,1
-"175",201,"Gauss knows if the continuum hypothesis is true or false.",34,6
-"176",202,"Andrew Wiles found Gauss's old school book, and copied off it to give us Fermat's Last Theorem",47,23
-"178",204,"Gauss can construct a regular 17-gon...using only a ruler. ",51,8
-"180",206,"When Gauss constructs a gray code, it's whatever colour he wants it to be.",39,5
-"185",212,"Gauss found BB(6), but his publisher refused to print it.",16,3
-"187",215,"Gauss can guard any art gallery all by himself.",105,8
-"188",216,"Gauss can prove two theorems with one proof.",144,9
-"189",352,"Gauss used induction with the real numbers. And it worked",57,31
-"190",218,"For Gauss finding a solution is easier than checking it, NP",17,8
-"191",219,"Gauss can prove axioms.",168,42
-"192",220,"For Gauss, non-correlation implies independence.",66,1
-"193",221,"Ink from Gauss's pen can cure cancer. Too bad he does all his calculations in his head and never uses a pen.",137,16
-"194",223,"Gauss can perform any algorithm in a polynomial number of Gauss-steps.",18,4
-"197",227,"Gauss knows the question to the answer 42.",24,11
-"199",229,"Gauss can trisect any angle while closing his eyes.",14,5
-"201",371,"Gauss finds all Lie algebras simple.",71,5
-"202",234,"Gauss can calculate the square root of -1 ... with a slide rule.",32,13
-"203",235,"Gauss invented numerical methods as a service to humanity. There's nothing he can't integrate.",20,8
-"205",237,"Gauss's watch can tell whether a Turing machine will halt or not.",25,2
-"208",240,"Gauss once proved an axiom, but he didn't like it. So he disproved it. ",230,14
-"209",241,"Gauss can take an arbitrary loop on the surface of a torus and shrink it to a point. ",34,2
-"210",242,"Gauss doesn't always divide by zero, but when he does, he gets the answer.",35,29
-"211",243,"Gauss chooses ε < 0.",50,11
-"212",244,"Guass does not factor numbers, numbers give Gauss their factorization",28,5
-"213",315,"Gauss was annoyed by the acoustic disturbance while he was working. To reduce it he invented gaussian noise.",29,5
-"214",246,"Gauss doesn't need to solve the Halting Problem — Turing machines halt whenever Gauss tells them to.",39,3
-"215",248,"Gauss knows which Turing machines halt, because they have to ask him for permission first.",47,6
-"217",251,"Gauss once determined whether P = NP, but didn't think it was important enough to publish.",22,13
-"218",252,"In elementary school when Gauss was asked if he could add 1 - 1/3 + 1/5 - ..., he replied it was as easy as a piece of pi.",47,10
-"221",256,"Gauss can numerically compute a Lesbesgue integral.",24,6
-"222",257,"Gauss can measure the random quantum fluctuation energy in the fabric of space-time.",13,3
-"224",259,"Gauss doesn't need to solve the halting problem.  Turing Machines halt whenever Gauss tells them to.",18,6
-"228",263,"At the age of 19, Gauss doubled the cube.  But he didn't want us to feel bad, so he pretended he'd only constructed the heptadecagon.",20,8
-"230",328,"Fermat thought the margin of the book was too small to contain the proof of his Last Theorems. Gauss knows a proof for which it is too large.",185,5
-"231",268,"For Gauss all knots are trivial.",24,4
-"232",269,"When Gauss breaks a magnet he ends up with two monopoles",183,7
-"233",270,"The backward heat equation well-poses itself for Gauss.",10,2
-"234",271,"Gauss is puzzled by Fourier coefficients. He only ever needs one coefficient, at most.",27,6
-"235",272,"When Gauss does Gaussian elimination, it takes O(N). If he pivots, it takes O(log(N)).",15,4
-"236",273,"The empty set is defined as the set of theorems Gauss can't prove.",187,44
-"237",274,"Gauss always get R-squared = 1.",43,7
-"238",276,"Gauss referred to mathematics as the ""queen of the sciences."" Guess who is the king? ",85,42
-"239",353,"Gauss decides if a unique factorization domain exists or not depending on how many ways he chooses to factor an element.",41,8
-"240",278,"The common phrase used by mathematicians, ""Let n be an integer"", is literally a request to Gauss to allow it to be so.  ",317,16
-"241",280,"Gauss once crossed all of Königsberg's 7 bridges while crossing every bridge only once.",55,5
-"243",282,"""I couldn't find a counterexample"" is an admissible mathematical proof if it's written by Gauss.",181,25
-"244",330,"Gauss can write out A(6,3) in decimal on an imaginary chalkboard in his head.",20,9
-"245",331,"When Gauss creates a spanning tree, he just draws one line that goes through all nodes.",53,3
-"247",286,"Gauss doesn't sort, he raises one eyebrow, and arrays sort themselves out in constant time, and throw themselves at his feet, crying for mercy.",171,19
-"249",289,"Gauss can find every solution for all Navier-Stokes equations, with or without singularities.",26,1
-"250",290,"After seven and a half million years of calculation, Deep Thought gave up and asked Gauss for the answer.",81,14
-"251",370,"The monster group is scared of Gauss.
+58,"Gauss considers infinity as the first non-trivial case in a proof by induction.",159,18
+60,"There are no postulates, only theorems Gauss believes are unworthy of a proof.",105,38
+61,"Gauss can vertex color every graph using a greedy algorithm in O(1) time.",24,5
+62,"Gauss determined the orbit of Ceres with a quick skyward glance one night, but pretended to solve the orbit's eighth degree equation with three observations just to give the rest of us a chance.",45,5
+63,"Gauss has an Erdos number of -1.",369,39
+64,"Gauss can take the cross product of a vector and a scalar.",70,26
+65,"Only Gauss knows whether Schrodinger's cat is dead or alive.  ",201,33
+66,"Gauss's law actually states that everything in an enclosed surface has already been proven by Gauss.  ",110,29
+70,"Gauss can break RSA, in his head.",59,7
+71,"Gauss doesn't recognize complex numbers, they're all simple to him.  ",174,26
+74,"Watching Riemann fail in proving his famous conjecture, Gauss got so angry that he smashed the unit interval in pieces. The result is nowadays known as the ""Cantor Set"".",86,17
+75,"If you prove a theorem and Gauss proves a theorem, Gauss has proven more theorems than you.",34,19
+76,"Gauss checked the infinity of primes by counting them, starting from the last.",337,44
+77,"Gauss' open balls include their surface. ",21,14
+78,"Gauss sorts in log n time.",121,8
+79,"Gauss can let epsilon be less than zero.",269,38
+80,"Gauss can prove by induction that all horses are of the same color.",72,11
+83,"Unbounded sequences converge when Gauss is around. ",78,7
+84,"A typical human brain has a magnetic field of 10^-9 to 10^-8 Gauss. The unit Gauss was invented to describe the magnetic field of Gauss' brain. Coincidence? I think not.",121,38
+85,"Gauss shaves both himself and Bertrand Russell.",240,25
+86,"Gauss can swap limits and integrals whenever he wants.",50,7
+87,"Gauss can remove singularities by using Gaussian elimination.",31,8
+89,"Whenever Gauss was tired, he'd just differentiate his need for sleep until it was back to 0.",34,16
+90,"Gauss doesn't understand stochastic processes because he can predict random numbers.  ",42,2
+91,"Gauss knows a polynomial-time algorithm for 3-SAT.",20,4
+92,"Hilbert couldn't get a room at Gauss' Grand Hotel...it was booked solid.",95,24
+94,"Gauss's integers are more awesome and complex than your integers.",27,10
+95,"Gauss doesn't understand P?=NP. To him, everything is constant time.",65,9
+98,"Chuck Norris learned from Gauss how to count up to infinity.",79,46
+99,"Gauss classified the finite groups. When he was finished with the simple ones, there were none left.",40,7
+101,"Gauss can choose an element in every subset of the real line.",33,4
+102,"The universe is expanding so that entropy can increase faster than Gauss proves theorems.",79,19
+104,"The set of theorems Gauss hasn't proved has measure zero.",47,27
+105,"Let n be your age. Then lim n-> infinity (#{your theorems}/#{Gauss' theorems}) = 0. And Gauss is dead.",63,33
+106,"Gauss saved the rainforest by omitting ""qed"" at the end of proofs.",193,51
+109,"Gauss doesn't understand stochastic processes because he can predict random numbers.  ",227,21
+110,"Gauss can invert matrices even if its determinant is zero.  ",46,15
+111,"Gauss is the only one who can turn a circle inside out",21,7
+112,"After reading a Gauss textbook, Maxwell decided to retire and dedicate its life to coffee.",62,10
+113,"Gauss can differentiate e^x with respect to x down to zero.  ",49,22
+114,"Gauss uses the squeeze theorem on oranges whenever he wants juice.  ",95,10
+166,"Gauss hotel had room to accommodate all the guests from full Hilbert hotel, and still had rooms for all the reals.",40,14
+116,"Gauss discovered the magnetic monopole ages ago, he just wanted to see how long it'll take us to find it.  ",51,16
+117,"Gauss can take the line integral of a closed path over a gradient vector field and get 1. ",28,5
+118,"Gauss counted all the ordinals",27,2
+120,"Some series diverge because Gauss doesn't consider them worthy of summing up.",216,32
+121,"Nature abhors singularities. But even it had to make way for Gauss to exist.",52,5
+122,"Gauss doesn't need any axioms to prove theorems.",111,23
+123,"If Gauss had published all his discoveries, there would be nothing left to prove.",92,18
+124,"Gauss can walk through Konigsberg crossing its bridges once and only once",316,18
+127,"Gauss can escape from a black hole.",39,13
+138,"Gauss only took breaks from proving theorems to invent new algebras.",36,10
+130,"Gauss knows Alice and Bob's shared secret. ",358,33
+169,"Gauss created an engine more efficient than Carnot's",100,2
+132,"Gauss can find a perfect cube larger than 8 in Fibonacci Sequence.",24,1
+135,"The fact that Gauss is the greatest mathematician since antiquity is actually a theorem - A theorem proven by none other than one Carl Friedrich Gauss.",63,30
+136,"Gauss can create electric field inside a conductor.",28,4
+137,"Gauss can colour any given map such that no two adjacent areas share a colour, using only three colours.",20,10
+139,"There is a 1:1 correspondence between the number of theorems Gauss has proved and the real numbers. ",99,29
+141,"Gauss had to invent a new number to count his proofs: Aleph-Gauss.",80,29
+142,"A mathematician is a device for turning coffee into theorems. Only Gauss can create theorems out of nowhere!",145,14
+171,"Gauss considers using more than one digit a waste of time and thus writes numbers in base infinite.",112,22
+168,"Gaussian Elimination is actually a secret martial arts technique.",194,42
+146,"Gauss can read the Zodiac 340 cipher as in plain text, he just didn't publish the solution in order to save fun for us people.",13,6
+148,"Gauss can walk beyond the speed of light, that's why we cannot see him, and why we think he has died.",39,33
+149,"Gauss had already known the website 'Gauss Facts', so he saved his time for an autobiography.",34,11
+150,"Gauss can measure the total Entropy in the universe",37,4
+153,"Gauss proved Goldbach's Conjecture by checking each case.",47,9
+154,"For Gauss, the limit always exists.",29,5
+155,"Gauss can shave with Occam's razor.",187,13
+156,"Gauss can solve the halting problem.",34,6
+157,"Gauss solved the Twin Prime Conjecture by counting all of the Twin Primes until he found infinitely many.",32,3
+159,"Gauss can colour any map using only one colour.",163,21
+160,"Gauss's fundamental group is the monster group.",17,5
+161,"Gauss didn't need to unify quantum mechanics and general relativity. He got the right theory from the start.",61,14
+162,"When Carl Friedrich Gauss adds one, his number doesn't increase, all other numbers become smaller.",249,18
+163,"Gauss developed Fractal Theory when he had broccoli for first time, but considered it obvious enough and didn't publish.",107,22
+164,"Gauss gets definite values of indefinite integrals",31,10
+167,"Gauss can calculate 100! only using one ""int"" variable in C.",25,19
+172,"It's no secret Gauss was a child prodigy; his mother's womb inspired the divergence theorem.",38,5
+173,"Gauss proved an omnipotent God since writing Q.E.D on a mirror.",39,14
+175,"All theorems were once called ""The Gauss Theorem"", however Gauss allowed others to take credit so it wouldn't confuse everyone else.",134,29
+176,"Gauss can solve a Rubik's cube in 3 moves.",37,10
+177,"""Gauß's theorem"" is a pleonasm.",30,12
+178,"When Gauss was thirsty, he used Banach–Tarski paradox to get more orange juice.",288,12
+180,"Gauss can construct a pair of orthogonal Latin squares of order 6.",19,3
+182,"Computer told Gauss the Eight-queens Puzzle has 92 answers,then Gauss showed it the 93rd one",27,8
+184,"Gauss knows explicit well-orderings of the reals.",45,1
+185,"Erdös used to say that he knew 37 different proofs of the Pythagorean Theorem.  Gauss knew 37 different proofs of the Riemann hypothesis, which he posed as an exercise to Bernhard Riemann while on his deathbed.",77,4
+186,"Each of Gauss's fingerprints contains a proof of quadratic reciprocity.",52,5
+187,"As a child, Gauss was instructed to sum the numbers from 1 to 100. He did this by summing the infinite series and then subtracting off every integer greater than 100, one by one, in his head.",295,43
+189,"Gauss can comb the hair on a bowling ball.",44,9
+191,"Gauss can recite all of pi - backwards.",287,64
+193,"Gauss has observed the Higgs Boson.",49,15
+195,"Gauss proved induction using a proof by induction.",86,28
+197,"Gauss proved that the continuum hypothesis is not independent of his choice.",83,3
+199,"They say Riemann is the name Gauss used to publish some unsatisfied papers. ",115,24
+226,"Gauss can calculate the moments of the Cauchy-Lorentz distribution.",28,1
+201,"Gauss knows if the continuum hypothesis is true or false.",34,6
+202,"Andrew Wiles found Gauss's old school book, and copied off it to give us Fermat's Last Theorem",47,23
+204,"Gauss can construct a regular 17-gon...using only a ruler. ",51,8
+206,"When Gauss constructs a gray code, it's whatever colour he wants it to be.",39,5
+212,"Gauss found BB(6), but his publisher refused to print it.",16,3
+215,"Gauss can guard any art gallery all by himself.",105,8
+216,"Gauss can prove two theorems with one proof.",144,9
+352,"Gauss used induction with the real numbers. And it worked",57,31
+218,"For Gauss finding a solution is easier than checking it, NP",17,8
+219,"Gauss can prove axioms.",168,42
+220,"For Gauss, non-correlation implies independence.",66,1
+221,"Ink from Gauss's pen can cure cancer. Too bad he does all his calculations in his head and never uses a pen.",137,16
+223,"Gauss can perform any algorithm in a polynomial number of Gauss-steps.",18,4
+227,"Gauss knows the question to the answer 42.",24,11
+229,"Gauss can trisect any angle while closing his eyes.",14,5
+371,"Gauss finds all Lie algebras simple.",71,5
+234,"Gauss can calculate the square root of -1 ... with a slide rule.",32,13
+235,"Gauss invented numerical methods as a service to humanity. There's nothing he can't integrate.",20,8
+237,"Gauss's watch can tell whether a Turing machine will halt or not.",25,2
+240,"Gauss once proved an axiom, but he didn't like it. So he disproved it. ",230,14
+241,"Gauss can take an arbitrary loop on the surface of a torus and shrink it to a point. ",34,2
+242,"Gauss doesn't always divide by zero, but when he does, he gets the answer.",35,29
+243,"Gauss chooses ε < 0.",50,11
+244,"Guass does not factor numbers, numbers give Gauss their factorization",28,5
+315,"Gauss was annoyed by the acoustic disturbance while he was working. To reduce it he invented gaussian noise.",29,5
+246,"Gauss doesn't need to solve the Halting Problem — Turing machines halt whenever Gauss tells them to.",39,3
+248,"Gauss knows which Turing machines halt, because they have to ask him for permission first.",47,6
+251,"Gauss once determined whether P = NP, but didn't think it was important enough to publish.",22,13
+252,"In elementary school when Gauss was asked if he could add 1 - 1/3 + 1/5 - ..., he replied it was as easy as a piece of pi.",47,10
+256,"Gauss can numerically compute a Lesbesgue integral.",24,6
+257,"Gauss can measure the random quantum fluctuation energy in the fabric of space-time.",13,3
+259,"Gauss doesn't need to solve the halting problem.  Turing Machines halt whenever Gauss tells them to.",18,6
+263,"At the age of 19, Gauss doubled the cube.  But he didn't want us to feel bad, so he pretended he'd only constructed the heptadecagon.",20,8
+328,"Fermat thought the margin of the book was too small to contain the proof of his Last Theorems. Gauss knows a proof for which it is too large.",185,5
+268,"For Gauss all knots are trivial.",24,4
+269,"When Gauss breaks a magnet he ends up with two monopoles",183,7
+270,"The backward heat equation well-poses itself for Gauss.",10,2
+271,"Gauss is puzzled by Fourier coefficients. He only ever needs one coefficient, at most.",27,6
+272,"When Gauss does Gaussian elimination, it takes O(N). If he pivots, it takes O(log(N)).",15,4
+273,"The empty set is defined as the set of theorems Gauss can't prove.",187,44
+274,"Gauss always get R-squared = 1.",43,7
+276,"Gauss referred to mathematics as the ""queen of the sciences."" Guess who is the king? ",85,42
+353,"Gauss decides if a unique factorization domain exists or not depending on how many ways he chooses to factor an element.",41,8
+278,"The common phrase used by mathematicians, ""Let n be an integer"", is literally a request to Gauss to allow it to be so.  ",317,16
+280,"Gauss once crossed all of Königsberg's 7 bridges while crossing every bridge only once.",55,5
+282,"""I couldn't find a counterexample"" is an admissible mathematical proof if it's written by Gauss.",181,25
+330,"Gauss can write out A(6,3) in decimal on an imaginary chalkboard in his head.",20,9
+331,"When Gauss creates a spanning tree, he just draws one line that goes through all nodes.",53,3
+286,"Gauss doesn't sort, he raises one eyebrow, and arrays sort themselves out in constant time, and throw themselves at his feet, crying for mercy.",171,19
+289,"Gauss can find every solution for all Navier-Stokes equations, with or without singularities.",26,1
+290,"After seven and a half million years of calculation, Deep Thought gave up and asked Gauss for the answer.",81,14
+370,"The monster group is scared of Gauss.
 ",165,2
-"252",293,"Gauss wrote Flatlands to explain the universe to God.",30,14
-"253",294,"Gauss can both pet and not pet Schrödinger's cat at the same time. ",72,13
-"254",295,"When Gauss wants to solve a problem in R^4, he visualizes R^n and then makes n=4.",75,17
-"256",297,"Gauss checkmated Watson in 3 moves using BASIC on an Atari 2600.",29,23
-"257",298,"Gauss knows an algorithm to compute the class group of any normal variety.",11,0
-"258",299,"Gauss proved the classification theorem of finite simple groups on less than ten pages. He then decided that his approach was rather obvious and didn't proceed to publish it.",23,8
-"260",301,"When you integrate, you integrate with respect to Gauss.",67,25
-"261",351,"Gauss solved the Kobayashi Maru, without cheating.",30,21
-"262",303,"To iron a shirt, Gauss first applies a diffeomorphism to transform it to a flat piece of fabric.",93,6
-"263",304,"Gauss can make any knot an unknot. ",23,3
-"264",305,"Gauss once confirmed the Riemann Hypothesis with a combinatorial proof.",36,8
-"265",306,"Gauss once got lost in a forest. So he added a few edges and reduced the forest to a single tree.",221,7
-"266",307,"No one respected Riemann until Gauss taught him a trick how to make conditionally convergent series converge to any limit.",23,9
-"268",309,"Before the Gaussian distribution was invented, every distribution was considered normal.",17,11
-"270",332,"Gauss can think of three vectors that are an orthonormal basis of R2",58,8
-"271",321,"To win a bet, Gauss once throw darts uniformly at random onto the real number line and hit only rational numbers.",70,18
-"272",314,"Gauss is the definition of normal; anything more than two standard deviations away from him is considered an outlier.",38,21
-"274",316,"Gauss has proven the Hodge Conjecture. With a Spork. ",19,6
-"276",360,"Gauss can run bogosort in constant time.",38,4
-"277",334,"Gauss disproved Godel's Incompleteness Theorem by exhaustion.",141,6
-"278",335,"Gauss was once bored on a rainy Thursday night, so using only the nand operator, he re-derived all of modern mathematics.",26,16
-"279",367,"Gauss once figured out an expression for every real number as a fraction, but he got bored writing them down. The ones he didn't document are now called irrational.",37,22
-"280",319,"Gauss can differentiate a constant and get a variable.",35,27
-"281",336,"Order of operations, as we use it today, comes from historians' efforts of looking through Gauss's proofs and deciding which order he performed operations in.",34,24
-"284",368,"Gauss can smoothly deform a sphere into a torus.",61,4
-"285",340,"The divergence of a magnetic field is only 0 because Gauss grew tired of silly variables.",24,9
-"287",342,"Gauss can power a small village for weeks using just the electric field inside of a conductor at equilibrium.",24,6
-"288",343,"Gauss knows of an efficient way of factoring large numbers into nontrivial primes, but gets such a laugh out of the general agreement of P != NP that he won't tell anybody.",33,19
-"289",345,"Gauss is an actual oracle for all reduction problems.",31,7
-"293",364,"Once, Gauss was stumped by a theorem that he couldn't prove. This was enough evidence for Godel.",139,25
-"294",365,"In mathematics the equivalent of a Nobel Prize is the Fields Medal. It is awarded to those individuals with the best Gauss impression that year.",51,29
-"295",366,"There are no closed form expressions for roots of degree greater than 5 polynomials because Gauss got bored writing them down.",28,16
-"297",373,"Gauss knows whether the set of all things that don't contain themselves contains itself.",47,2
-"298",374,"Gauss once constructed the set of all sets in his head.",50,7
-"299",375,"Mathematicians often leave proofs as an exercise for the reader; Gauss leaves his proofs as an exercise for God. ",155,35
-"300",376,"Not only does Gauss' general proof of Fermat's Last Theorem use only elementary arithmetic, it uses only minuses.",39,24
-"301",377,"It was only after Gauss' death that we had the concept of ""Largest known prime"". Till then, Gauss knew all infinity of them",92,32
-"302",378,"It was only after Gauss' death that we had the concept of ""largest known prime"". Until then, Gauss knew all infinity of them. ",45,15
-"303",379,"Gauss can find eigen-vectors of a rotation matrix.",37,25
-"304",380,"A discovery is just an unpublished invention of Gauss.",112,24
-"305",389,"Hilbert's problems are a compilation of twenty-three problems Hilbert took from a list of exercises Gauss had left to the reader in one of his manuscripts.",74,17
-"306",421,"Gauss can recite Graham's number, forwards.",23,4
-"307",383,"Clay Institute owes Gauss 7000000$",72,40
-"308",384,"Actually, Gauss knows the orbit of an Asteroid after only one measurement.",20,12
-"309",428,"A mathematician, a physicist, and an engineer walk into a bar. The bartender says, ""Hello, Professor Gauss.""",282,17
-"310",502,"When Gauss enters a tug of war the rope goes perfectly taut",31,3
-"311",386,"Asking Gauss whether or not a statement is true or false constitutes a rigorous proof",232,7
-"312",424,"Gauss knows which of Monty Hall's doors to open.",33,17
-"313",387,"Gauss once created an axiomatic system that was both consistent and complete",53,8
-"314",388,"When Godel heard that Gauss could prove anything, he asked Gauss to prove the statement ""There exists a statement that Gauss cannot prove.""  gauss proved the statement, but there was still no statement he could not prove.  This is how the quantum state was born. ",170,37
-"315",392,"God once said he'd end the world after someone solves the Tower of Hanoi problem containing 64 pegs. Gauss solved it in about a hundred steps just to prove that God was kidding.",91,13
-"316",394,"Gauss once simultaneously diagonalized all n by n matrices.",64,6
-"317",396,"Gauss can convert Meters to degrees Celsius.",121,67
-"321",404,"L'Hôpital's rule was invented because only Gauss can multiply infinity by zero.",42,19
-"322",406,"Gauss can calculate the solution to the Boolean satisfiability problem in O(1) time.",13,4
-"323",407,"Gauss can fill a Klein bottle.",118,6
-"324",408,"Gauss has never lost or even drawn a game of tic tac toe even against the best computer program.",31,12
-"325",447,"Gauss taught himself to square the circle in second grade. By third grade, he didn't even need the straightedge or compass. By fourth grade, he didn't even need the pencil. By the time he got his first PhD in fifth grade, he didn't even need the circle.",65,13
-"327",412,"Gauss found inconsistencies in Godel's proof",68,4
-"328",441,"Gauss can had a 3 colour theorem proof, but liked the colour blue so kept four colours.",41,18
-"329",414,"All butterflies dream that they are Gauss",21,6
-"332",438,"Gauss never needs to resort to a Martingale strategy while gambling. He wins every bet.",40,7
-"333",418,"Gauss once proved that 1+1=2 exhibiting a counterexample for any other case.",56,8
-"334",419,"Gauss never understood the concept of NP problems because the first feasible solution he uses is always the optimum.",49,8
-"335",420,"For Gauss, every game is determined... It doesn't matter if it is finite or not...",25,7
-"336",422,"Riemann stole a proof from Gauss' book, but he couldn't understand it and called it Riemann's hypothesis. ",44,19
-"337",423,"Gauss made the Kessel Run in one parsec.",38,24
-"338",430,"Gauss has already solved the infinity-body problem.",20,13
-"339",431,"Gauss once managed to square the circle, using only his fingernails and a piece of chocolate. ",27,21
-"340",433,"Gauss never proved a theorem, they're all lemmas for him.",54,22
-"341",434,"Gauss doesn't integrate with respect to x, x differentiates with respect to gauss. ",89,26
-"342",436,"Gauss can prove the consistency of the axioms within the system.",38,8
-"343",439,"Gauss can construct a regular (a+ib)-gon for any a,b in R using just a straight-edge and compass.",38,9
-"344",440,"Once in his free time, Gauss found about a hundred distinct imaginary numbers on the real line.",30,16
-"346",454,"Gauss uses home-grown abelian grapes for winemaking.",18,10
-"347",456,"Gauss uses home-grown abelian grapes for winemaking.",30,8
-"348",457,"Gauss can draw as many lines as he wants through any point not on a given line parallel to the given line in a plane.",73,5
-"349",458,"Riemann once said ""If only I had the theorems! Then I should find the proofs easily enough."" Sure, if by finding he meant asking Gauss.",88,3
-"350",459,"Gauss doesn't have to stand on the shoulders of giants to see further than anyone else.",152,4
-"351",444,"Gauss proved the parallel postulate using only a straightedge.",30,4
-"352",445,"Gauss proved that the Mandelbrot Set is locally connected by drawing the boundary by hand.",120,4
-"353",446,"Gauss can find the cross product of two vectors  in any n dimensional space.",36,11
-"354",448,"Gauss can prove the consistency of ZFC.",51,6
-"355",449,"For Gauss, continuity implies differentiability.",44,8
-"356",485,"Gauss can find non-cyclic Abelian groups of order n where n does not have repeating prime factors.",25,5
-"357",462,"Gauss can understand income tax.",93,14
-"358",463,"Every cardinal is easily accesible for Gauss.",73,2
-"359",464,"Gauss manages his personal finance using conditional convergent series so he can get any amount of money he wants.",33,4
-"361",466,"Gauss can turn a circle inside out, unfortunately he did it once and left it that way and now we can't turn it back.",39,8
-"362",467,"Gauss can transport a bag of grain, a chicken and a fox over a river even if there is no boat",226,9
-"363",468,"If you fire an electron at a screen with two slits in it and a Gauss on the other side the electron refuses to go through either slit",116,11
-"364",469,"A prime number is a number divisible only by one, itself and Gauss",61,21
-"366",471,"G.Perelman didn't accept Fields medal since he felt it would be unfair for him to take credit for the proof Of Poincare conjecture he found in one of Gauss unpublished notebooks.",96,12
-"367",472,"Gauss is the only person whom Archimedes allows to disturb his circles",66,3
-"369",475,"Gauss can solve Hume's problem of induction.",23,4
-"370",476,"Gauss's mathematical discoveries are certain AND they refer to reality.",60,5
-"371",477,"Gauss actually won a Nobel Prize in Mathematics.",178,11
-"372",478,"Gauss can solve problems in time O(0).",53,10
-"373",499,"Whenever Gauss played tennis, he made sure first to comb all the fur on the ball smoothly.",128,11
-"374",483,"God does not play dice with the universe, but Gauss does.",116,9
-"375",486,"Gauss once hurt Kroniker's ego by telling him ""Actually, God gave us just the transcendental numbers; the rest are man's approximations"". ",42,10
-"376",487,"Gauss used to refer to complex numbers as ""Not necessarily real but just as simple"" numbers",43,9
-"377",492,"The Millennium Problems are trivial. That's why Gauss never bothered to prove them - he left them as an exercise for the reader.",64,17
-"378",488,"There is no Nobel Prizes in Mathematics because Gauss earned them all the first year Nobel was giving them.",77,25
-"379",507,"Contrary to a common belief, Gauss is actually worth 10,000 Teslas.",34,5
-"380",491,"Gauss can solve all polynomial equation by radicals... in polynomial time.",25,8
-"381",493,"What Fermat meant to say was in fact: ""(...) I have found a remarkable proof of this fact in Gauss's notebook, but He used wider margins than this book does.""",44,15
-"382",494,"Gauss doesn't understand why some people think P != NP. He can solve anything in constant time.",39,9
-"383",495,"Gauss can prove theorems by using induction on the reals.",50,13
-"384",496,"Gauss doesn't walk, he just rotates the Earth below him.",36,14
-"385",497,"Gauss doesn't do Lagrange multiplers - for him there are no constraints!",76,4
-"386",498,"""Only two things are infinite, human stupidity and Gauss' intellect , and I'm not sure about human stupidity"" - Albert Einstein",76,11
-"387",500,"Gauss also discovered Galois Theory, but also won a duel, AND got the girl. Take that, Evariste!",70,12
-"388",503,"Gauss keeps monster sets as pets",48,8
-"389",504,"Principia Mathematica was Bertrand Russell's best attempt to translate what Gauss originally wrote in a single haiku",105,13
-"390",505,"Gauss invented the infinite improbability drive",24,13
-"391",506,"Give Gauss a solid place to stand and he'll move the universe",43,7
-"392",508,"Gauss actually disproved the clause: ""Gauss cannot prove that this clause is true"".",59,5
-"393",509,"Gauss was less Bayesian than Bayes was Gaussian.",10,0
-"394",511,"Mathematics is invented by Gauss for others to discover.
+293,"Gauss wrote Flatlands to explain the universe to God.",30,14
+294,"Gauss can both pet and not pet Schrödinger's cat at the same time. ",72,13
+295,"When Gauss wants to solve a problem in R^4, he visualizes R^n and then makes n=4.",75,17
+297,"Gauss checkmated Watson in 3 moves using BASIC on an Atari 2600.",29,23
+298,"Gauss knows an algorithm to compute the class group of any normal variety.",11,0
+299,"Gauss proved the classification theorem of finite simple groups on less than ten pages. He then decided that his approach was rather obvious and didn't proceed to publish it.",23,8
+301,"When you integrate, you integrate with respect to Gauss.",67,25
+351,"Gauss solved the Kobayashi Maru, without cheating.",30,21
+303,"To iron a shirt, Gauss first applies a diffeomorphism to transform it to a flat piece of fabric.",93,6
+304,"Gauss can make any knot an unknot. ",23,3
+305,"Gauss once confirmed the Riemann Hypothesis with a combinatorial proof.",36,8
+306,"Gauss once got lost in a forest. So he added a few edges and reduced the forest to a single tree.",221,7
+307,"No one respected Riemann until Gauss taught him a trick how to make conditionally convergent series converge to any limit.",23,9
+309,"Before the Gaussian distribution was invented, every distribution was considered normal.",17,11
+332,"Gauss can think of three vectors that are an orthonormal basis of R2",58,8
+321,"To win a bet, Gauss once throw darts uniformly at random onto the real number line and hit only rational numbers.",70,18
+314,"Gauss is the definition of normal; anything more than two standard deviations away from him is considered an outlier.",38,21
+316,"Gauss has proven the Hodge Conjecture. With a Spork. ",19,6
+360,"Gauss can run bogosort in constant time.",38,4
+334,"Gauss disproved Godel's Incompleteness Theorem by exhaustion.",141,6
+335,"Gauss was once bored on a rainy Thursday night, so using only the nand operator, he re-derived all of modern mathematics.",26,16
+367,"Gauss once figured out an expression for every real number as a fraction, but he got bored writing them down. The ones he didn't document are now called irrational.",37,22
+319,"Gauss can differentiate a constant and get a variable.",35,27
+336,"Order of operations, as we use it today, comes from historians' efforts of looking through Gauss's proofs and deciding which order he performed operations in.",34,24
+368,"Gauss can smoothly deform a sphere into a torus.",61,4
+340,"The divergence of a magnetic field is only 0 because Gauss grew tired of silly variables.",24,9
+342,"Gauss can power a small village for weeks using just the electric field inside of a conductor at equilibrium.",24,6
+343,"Gauss knows of an efficient way of factoring large numbers into nontrivial primes, but gets such a laugh out of the general agreement of P != NP that he won't tell anybody.",33,19
+345,"Gauss is an actual oracle for all reduction problems.",31,7
+364,"Once, Gauss was stumped by a theorem that he couldn't prove. This was enough evidence for Godel.",139,25
+365,"In mathematics the equivalent of a Nobel Prize is the Fields Medal. It is awarded to those individuals with the best Gauss impression that year.",51,29
+366,"There are no closed form expressions for roots of degree greater than 5 polynomials because Gauss got bored writing them down.",28,16
+373,"Gauss knows whether the set of all things that don't contain themselves contains itself.",47,2
+374,"Gauss once constructed the set of all sets in his head.",50,7
+375,"Mathematicians often leave proofs as an exercise for the reader; Gauss leaves his proofs as an exercise for God. ",155,35
+376,"Not only does Gauss' general proof of Fermat's Last Theorem use only elementary arithmetic, it uses only minuses.",39,24
+377,"It was only after Gauss' death that we had the concept of ""Largest known prime"". Till then, Gauss knew all infinity of them",92,32
+378,"It was only after Gauss' death that we had the concept of ""largest known prime"". Until then, Gauss knew all infinity of them. ",45,15
+379,"Gauss can find eigen-vectors of a rotation matrix.",37,25
+380,"A discovery is just an unpublished invention of Gauss.",112,24
+389,"Hilbert's problems are a compilation of twenty-three problems Hilbert took from a list of exercises Gauss had left to the reader in one of his manuscripts.",74,17
+421,"Gauss can recite Graham's number, forwards.",23,4
+383,"Clay Institute owes Gauss 7000000$",72,40
+384,"Actually, Gauss knows the orbit of an Asteroid after only one measurement.",20,12
+428,"A mathematician, a physicist, and an engineer walk into a bar. The bartender says, ""Hello, Professor Gauss.""",282,17
+502,"When Gauss enters a tug of war the rope goes perfectly taut",31,3
+386,"Asking Gauss whether or not a statement is true or false constitutes a rigorous proof",232,7
+424,"Gauss knows which of Monty Hall's doors to open.",33,17
+387,"Gauss once created an axiomatic system that was both consistent and complete",53,8
+388,"When Godel heard that Gauss could prove anything, he asked Gauss to prove the statement ""There exists a statement that Gauss cannot prove.""  gauss proved the statement, but there was still no statement he could not prove.  This is how the quantum state was born. ",170,37
+392,"God once said he'd end the world after someone solves the Tower of Hanoi problem containing 64 pegs. Gauss solved it in about a hundred steps just to prove that God was kidding.",91,13
+394,"Gauss once simultaneously diagonalized all n by n matrices.",64,6
+396,"Gauss can convert Meters to degrees Celsius.",121,67
+404,"L'Hôpital's rule was invented because only Gauss can multiply infinity by zero.",42,19
+406,"Gauss can calculate the solution to the Boolean satisfiability problem in O(1) time.",13,4
+407,"Gauss can fill a Klein bottle.",118,6
+408,"Gauss has never lost or even drawn a game of tic tac toe even against the best computer program.",31,12
+447,"Gauss taught himself to square the circle in second grade. By third grade, he didn't even need the straightedge or compass. By fourth grade, he didn't even need the pencil. By the time he got his first PhD in fifth grade, he didn't even need the circle.",65,13
+412,"Gauss found inconsistencies in Godel's proof",68,4
+441,"Gauss can had a 3 colour theorem proof, but liked the colour blue so kept four colours.",41,18
+414,"All butterflies dream that they are Gauss",21,6
+438,"Gauss never needs to resort to a Martingale strategy while gambling. He wins every bet.",40,7
+418,"Gauss once proved that 1+1=2 exhibiting a counterexample for any other case.",56,8
+419,"Gauss never understood the concept of NP problems because the first feasible solution he uses is always the optimum.",49,8
+420,"For Gauss, every game is determined... It doesn't matter if it is finite or not...",25,7
+422,"Riemann stole a proof from Gauss' book, but he couldn't understand it and called it Riemann's hypothesis. ",44,19
+423,"Gauss made the Kessel Run in one parsec.",38,24
+430,"Gauss has already solved the infinity-body problem.",20,13
+431,"Gauss once managed to square the circle, using only his fingernails and a piece of chocolate. ",27,21
+433,"Gauss never proved a theorem, they're all lemmas for him.",54,22
+434,"Gauss doesn't integrate with respect to x, x differentiates with respect to gauss. ",89,26
+436,"Gauss can prove the consistency of the axioms within the system.",38,8
+439,"Gauss can construct a regular (a+ib)-gon for any a,b in R using just a straight-edge and compass.",38,9
+440,"Once in his free time, Gauss found about a hundred distinct imaginary numbers on the real line.",30,16
+454,"Gauss uses home-grown abelian grapes for winemaking.",18,10
+456,"Gauss uses home-grown abelian grapes for winemaking.",30,8
+457,"Gauss can draw as many lines as he wants through any point not on a given line parallel to the given line in a plane.",73,5
+458,"Riemann once said ""If only I had the theorems! Then I should find the proofs easily enough."" Sure, if by finding he meant asking Gauss.",88,3
+459,"Gauss doesn't have to stand on the shoulders of giants to see further than anyone else.",152,4
+444,"Gauss proved the parallel postulate using only a straightedge.",30,4
+445,"Gauss proved that the Mandelbrot Set is locally connected by drawing the boundary by hand.",120,4
+446,"Gauss can find the cross product of two vectors  in any n dimensional space.",36,11
+448,"Gauss can prove the consistency of ZFC.",51,6
+449,"For Gauss, continuity implies differentiability.",44,8
+485,"Gauss can find non-cyclic Abelian groups of order n where n does not have repeating prime factors.",25,5
+462,"Gauss can understand income tax.",93,14
+463,"Every cardinal is easily accesible for Gauss.",73,2
+464,"Gauss manages his personal finance using conditional convergent series so he can get any amount of money he wants.",33,4
+466,"Gauss can turn a circle inside out, unfortunately he did it once and left it that way and now we can't turn it back.",39,8
+467,"Gauss can transport a bag of grain, a chicken and a fox over a river even if there is no boat",226,9
+468,"If you fire an electron at a screen with two slits in it and a Gauss on the other side the electron refuses to go through either slit",116,11
+469,"A prime number is a number divisible only by one, itself and Gauss",61,21
+471,"G.Perelman didn't accept Fields medal since he felt it would be unfair for him to take credit for the proof Of Poincare conjecture he found in one of Gauss unpublished notebooks.",96,12
+472,"Gauss is the only person whom Archimedes allows to disturb his circles",66,3
+475,"Gauss can solve Hume's problem of induction.",23,4
+476,"Gauss's mathematical discoveries are certain AND they refer to reality.",60,5
+477,"Gauss actually won a Nobel Prize in Mathematics.",178,11
+478,"Gauss can solve problems in time O(0).",53,10
+499,"Whenever Gauss played tennis, he made sure first to comb all the fur on the ball smoothly.",128,11
+483,"God does not play dice with the universe, but Gauss does.",116,9
+486,"Gauss once hurt Kroniker's ego by telling him ""Actually, God gave us just the transcendental numbers; the rest are man's approximations"". ",42,10
+487,"Gauss used to refer to complex numbers as ""Not necessarily real but just as simple"" numbers",43,9
+492,"The Millennium Problems are trivial. That's why Gauss never bothered to prove them - he left them as an exercise for the reader.",64,17
+488,"There is no Nobel Prizes in Mathematics because Gauss earned them all the first year Nobel was giving them.",77,25
+507,"Contrary to a common belief, Gauss is actually worth 10,000 Teslas.",34,5
+491,"Gauss can solve all polynomial equation by radicals... in polynomial time.",25,8
+493,"What Fermat meant to say was in fact: ""(...) I have found a remarkable proof of this fact in Gauss's notebook, but He used wider margins than this book does.""",44,15
+494,"Gauss doesn't understand why some people think P != NP. He can solve anything in constant time.",39,9
+495,"Gauss can prove theorems by using induction on the reals.",50,13
+496,"Gauss doesn't walk, he just rotates the Earth below him.",36,14
+497,"Gauss doesn't do Lagrange multiplers - for him there are no constraints!",76,4
+498,"""Only two things are infinite, human stupidity and Gauss' intellect , and I'm not sure about human stupidity"" - Albert Einstein",76,11
+500,"Gauss also discovered Galois Theory, but also won a duel, AND got the girl. Take that, Evariste!",70,12
+503,"Gauss keeps monster sets as pets",48,8
+504,"Principia Mathematica was Bertrand Russell's best attempt to translate what Gauss originally wrote in a single haiku",105,13
+505,"Gauss invented the infinite improbability drive",24,13
+506,"Give Gauss a solid place to stand and he'll move the universe",43,7
+508,"Gauss actually disproved the clause: ""Gauss cannot prove that this clause is true"".",59,5
+509,"Gauss was less Bayesian than Bayes was Gaussian.",10,0
+511,"Mathematics is invented by Gauss for others to discover.
 ",43,7
-"395",657,"If Gauss attempts to solve an equation for which there is no solution, mathematics will change to allow one. This is why fractions and irrational, negative and imaginary numbers exist.",76,11
-"396",654,"gauss can count until pi with his fingers
+657,"If Gauss attempts to solve an equation for which there is no solution, mathematics will change to allow one. This is why fractions and irrational, negative and imaginary numbers exist.",76,11
+654,"gauss can count until pi with his fingers
 ",10,4
-"398",658,"Gauss can fill 75% of the volume of a cubic box using only close-packed spheres.",40,4
-"401",615,"It is conjectured that a long time ago, Gauss performed an inversion about a small sphere in the universe. Scientists call this the Big Bang theory.",66,7
-"402",618,"Gauss knows whether P = NP, he just thought it would be more fun if you figured out for yourself.",65,7
-"403",617,"If G is the set of theorems Gauss proved, then the powerset of G contains less elements than G.",27,12
-"404",619,"The flaw in Godel's impossibility theorem is that he forgot to account for the existence of Carl Gauss.",40,9
-"406",621,"Carl Gauss once calculated out every possible outcome of a game of chess. (Hint: every one involves him winning.)",40,8
-"407",622,"Gauss knows whether the glass is half-full or half-empty.",35,4
-"408",623,"If Carl Gauss tells you he's lying, you better believe it.",73,2
-"410",515,"""Only two things are infinite, the human stupidity and Gauss' intellect, and I'm not sure about the human stupidity."" - Albert Einstein",68,14
-"411",516,"On Day One Gauss divided by 0 and thus the universe was created.",9,1
-"412",604,"Gauss stopped doing mathematics after he wrote proved more than aleph-null theorems, but before he proved aleph-one of them.",68,9
-"414",603,"Gauss invented the first 64qbit quatum computer 200 years ago, but it slowed down his work...",101,6
-"415",606,"The halting problem didn't exist until Gauss made a turing machine that halts only when he wants it to.",30,13
-"416",607,"Gauss can see the color of his own hat.",172,5
-"417",608,"Gauss can solve Towers of Hanoi in  polynomial time.",51,8
-"418",609,"A real number is constructible with straightedge and compass if and only if Gauss never felt like freehanding it.",35,6
-"419",614,"When Gauss thinks about The Game he wins.",77,21
-"420",612,"Gauss can split a bar magnet and produce two magnetic monopoles.",73,5
-"421",651,"God created the integers.  The rest is the work of Gauss.",129,9
-"422",650,"Gauss classified all finite simple groups in the space Fermat left in the margin.",89,3
-"423",648,"The third dimension exists because Gauss created it to get gas, water, and power to his three friends' houses.",85,7
-"424",659,"Mr. and Mrs. Gauss invented the Gaussian copula on their wedding night.",20,14
-"425",660,"Gauss once chopped up a pea, and reassembled it into a sun.",54,10
-"426",719,"Gauss once told a man he would beat his face in. The man made the mistake of telling Gauss to prove it.",22,4
-"428",918,"Gauss knows every digit of the number one... in base pi.",17,8
-"429",729,"when gauss goes stargazing he sees the end of the universe",11,1
-"430",730,"Gauss is not troubled by problems, problems are troubled by Gauss.",100,4
-"431",732,"It's unbelievable that some people compare Gauss to God. I mean, He's cool and all, but he's no Gauss...",24,6
-"432",739,"Entropy naturally reverses itself around Gauss. It is the universe's way of looking busy when he's around.",30,0
-"433",740,"There does not exist any finite number n such that n near-sighted policemen could keep Gauss from sneaking into the town.",24,2
-"435",742,"Carl Gauss can honestly say he's lying.",31,1
-"436",743,"Gauss once proved a theorem, but he didn't like it. So he disproved it.",41,2
-"437",744,"The empty set is defined as the set of all the true statements Gauss cannot prove.",106,11
-"438",745,"""Only two things are infinite, the universe and Gauss' intellect , and I'm not sure about the universe"" - Albert Einstein",34,1
-"440",747,"“Whoever undertakes to set himself up as the judge of truth and knowledge is shipwrecked by the laughter of Carl Gauss.” - Albert Einstein",32,5
-"441",734,"Gauss knows there are no uninteresting numbers, because he knows the interesting thing about each one.",42,3
-"442",735,"Gauss skips Step 2 of the Feynman problem solving algorithm:
+658,"Gauss can fill 75% of the volume of a cubic box using only close-packed spheres.",40,4
+615,"It is conjectured that a long time ago, Gauss performed an inversion about a small sphere in the universe. Scientists call this the Big Bang theory.",66,7
+618,"Gauss knows whether P = NP, he just thought it would be more fun if you figured out for yourself.",65,7
+617,"If G is the set of theorems Gauss proved, then the powerset of G contains less elements than G.",27,12
+619,"The flaw in Godel's impossibility theorem is that he forgot to account for the existence of Carl Gauss.",40,9
+621,"Carl Gauss once calculated out every possible outcome of a game of chess. (Hint: every one involves him winning.)",40,8
+622,"Gauss knows whether the glass is half-full or half-empty.",35,4
+623,"If Carl Gauss tells you he's lying, you better believe it.",73,2
+515,"""Only two things are infinite, the human stupidity and Gauss' intellect, and I'm not sure about the human stupidity."" - Albert Einstein",68,14
+516,"On Day One Gauss divided by 0 and thus the universe was created.",9,1
+604,"Gauss stopped doing mathematics after he wrote proved more than aleph-null theorems, but before he proved aleph-one of them.",68,9
+603,"Gauss invented the first 64qbit quatum computer 200 years ago, but it slowed down his work...",101,6
+606,"The halting problem didn't exist until Gauss made a turing machine that halts only when he wants it to.",30,13
+607,"Gauss can see the color of his own hat.",172,5
+608,"Gauss can solve Towers of Hanoi in  polynomial time.",51,8
+609,"A real number is constructible with straightedge and compass if and only if Gauss never felt like freehanding it.",35,6
+614,"When Gauss thinks about The Game he wins.",77,21
+612,"Gauss can split a bar magnet and produce two magnetic monopoles.",73,5
+651,"God created the integers.  The rest is the work of Gauss.",129,9
+650,"Gauss classified all finite simple groups in the space Fermat left in the margin.",89,3
+648,"The third dimension exists because Gauss created it to get gas, water, and power to his three friends' houses.",85,7
+659,"Mr. and Mrs. Gauss invented the Gaussian copula on their wedding night.",20,14
+660,"Gauss once chopped up a pea, and reassembled it into a sun.",54,10
+719,"Gauss once told a man he would beat his face in. The man made the mistake of telling Gauss to prove it.",22,4
+918,"Gauss knows every digit of the number one... in base pi.",17,8
+729,"when gauss goes stargazing he sees the end of the universe",11,1
+730,"Gauss is not troubled by problems, problems are troubled by Gauss.",100,4
+732,"It's unbelievable that some people compare Gauss to God. I mean, He's cool and all, but he's no Gauss...",24,6
+739,"Entropy naturally reverses itself around Gauss. It is the universe's way of looking busy when he's around.",30,0
+740,"There does not exist any finite number n such that n near-sighted policemen could keep Gauss from sneaking into the town.",24,2
+742,"Carl Gauss can honestly say he's lying.",31,1
+743,"Gauss once proved a theorem, but he didn't like it. So he disproved it.",41,2
+744,"The empty set is defined as the set of all the true statements Gauss cannot prove.",106,11
+745,"""Only two things are infinite, the universe and Gauss' intellect , and I'm not sure about the universe"" - Albert Einstein",34,1
+747,"“Whoever undertakes to set himself up as the judge of truth and knowledge is shipwrecked by the laughter of Carl Gauss.” - Albert Einstein",32,5
+734,"Gauss knows there are no uninteresting numbers, because he knows the interesting thing about each one.",42,3
+735,"Gauss skips Step 2 of the Feynman problem solving algorithm:
 1. Write down the problem. 
 2. Think very hard. 
 3. Write down the answer.",119,6
-"445",894,"Gauss can calculate the determinant of a non-square matrix",41,2
-"446",919,"It's acceptable when Carl Gauss uses circular reasoning. (I know because he told me.)",17,5
-"447",896,"Gauss is the only person who knows if Schrödinger's cat's still alive - he doesn't need to look to know this",19,4
-"448",762,"When Hilbert complained that every room in his hotel was full, his friend Gauss did him a favor and found a spot for the next guest.",17,3
-"449",763,"Gauss wins a car no matter what door he opens.",163,6
-"450",782,"Gauss proves the well-ordering theorem by glaring at the set in question until it orders itself out of sheer terror.",75,4
-"451",822,"Black holes are the result of Gauss cutting up stars and reassembling them into peas.",22,2
-"452",1079,"The actual statement of Godel's incompleteness theorem is that every consistent system cannot prove the existence of Gauss ,and it directly implies the version we know nowadays.",14,6
-"454",849,"The annihilator of a ring is actually a finisher wrestling move developed by Gauss.",23,4
-"455",850,"Gauss invented Newton AND Leibniz.",40,16
-"457",942,"Central Limit Theorem was the excuse God invented to obey Gauss.",22,3
-"458",943,"Gauss can count to aleph-one.",21,2
-"459",913,"Gauss knows the momentum and position of everything at all times.",10,3
-"460",914,"The frost on Gauss' beer glass is Bose–Einstein condensate",28,3
-"463",1007,"Gauss proved there were no uninteresting numbers...constructively.",31,0
-"464",1072,"Gauss, only using three sticks whose lenghts are a, b, c, can build a triangle even if a + b < c",20,3
-"465",939,"Gauss doesn't need to use L'Hopital's Rule. Indiscriminate problems just answer themselves for him.",8,1
-"466",940,"Gauss is able to draw a logarithmic plot including the origin.",22,3
-"468",875,"Gauss prefers to work with matrices with an irrational number of entries. ",26,0
-"469",876,"Gauss can make a combination of linearly independent vectors equal 0 (without coefficients of 0) just by brute force.  ",14,4
-"470",1067,"At night, theorems sit around the campfire and tell stories about Gauss .",59,3
-"472",1069,"All your theorems are belong to Gauss.",41,12
-"475",1076,"God and Gauss have a deal.  When God finally stumps Gauss with a theorem to prove, the world will end.  Since we're still on Earth guess how that's going?",14,1
-"477",986,"Gauss proved that there are more real numbers than integer numbers, by counting them.",37,1
-"478",766,"Gauss plays basketball with a Riemann sphere.",35,1
-"481",1073,"Gauss solves Navier-Stokes equations by hand.",15,1
-"486",773,"Gauss chooses his lotto numbers from an undecidable set.",26,4
-"487",897,"Gauss can square the circle and trisecate the angle with compass and straightedge",19,4
-"489",911,"The universe isn't expanding, it is just making more room for Gauss's ideas",32,1
-"490",912,"Protons suffered an emotional breakdown.  Gauss said ""keep it together"" and they haven't decayed since.",27,2
-"491",858,"Gauss knows the last 4 digits of Pi",19,5
-"493",854,"When Carl Gauss is solving the A+B problem, he always reduces it into a NP-hard problem in O(1) time and then solve it in O(1) time.",19,1
-"494",855,"If Gauss finds no correlation, they're independent.",17,0
-"495",857,"Gauss can exactly determine the position and the momentum of a particle with absolute accuracy!",22,7
-"496",833,"Parallel lines intersect anywhere Gauss wants them to.",14,4
-"497",910,"Gauss knows if Schrödinger's cat is alive or dead, and also what collar it wears",16,2
-"498",900,"Whenever Gauss tries to solve a problem in R^4, he generalizes the problem for R^n and then makes n=4.",96,16
-"499",901,"Once, Fermat contrariated Gauss, and the result was ""The Last Fermat Theorem"" (bye bye Fermat!)",13,7
-"501",906,"Gauss doesn't know what the Uncertainty principle is, because he is certain of everything.",20,4
-"502",903,"Gauss discovered non-euclidean geometry, but did not publish it, holding mathematics back for half a century (this one is actually true!)",31,2
-"503",1028,"Gauss had a theory of arithmetic that was consistent and complete. Also, he proved the incompleteness theorems. When God uttered ""But ... isn't there a contradic-"" Gauss disproved his existence.",22,9
-"504",779,"Some numbers are transcendental because Gauss didn't think they were rational enough.",17,0
-"506",1100,"Gauss is an exclusive member of an empty set.",60,4
-"508",1217,"When Gauß died, he did not leave any conjectures but excersises.",43,2
-"509",818,"Gauss could solve an n-dimensional Rubik hypercube. He tried just once.",10,3
-"512",798,"Gauss once said suppose sqrt(2) = p/q where p&q are integers. He found 2 such integers.",16,5
-"513",1180,"Gauss can draw every non-Lebesgue-measurable set.",18,3
-"514",1181,"Gauss knows the next random number",64,3
-"516",945,"Gauss can draw parallel lines on a sphere.",10,3
-"517",947,"Gauss can recite all the digite of pi - backwards.",23,6
-"519",1071,"Cayley's theorem is true because Gauss had only created permutation groups.",8,0
-"520",984,"When Gauss plays as player A, the player A has the winning strategy. When Gauss plays as player B, the player B has the winning strategy.",37,2
-"523",954,"First the earth was without math. And Gauss said, ""Let there be math"". And it was so. And Gauss saw that math was good; and Gauss separated math from everything else. And that was the first day.",27,6
-"524",955,"Gauss's mom never tells him his birthday. Gauss calculates it.",17,2
-"528",980,"The God Particle is actually nature's tribute to Gauss",15,6
-"529",1059,"When Gauss was cremated, he rebuilt himself into two copies of himself using the Banach-Tarski theorem",35,4
-"530",1060,"Gauss can perfectly calculate Chaitin's constants.",11,4
-"531",1061,"If mathematicians were Turing machines, Gauss would be the Busy Beaver.",21,3
-"533",1098,"When Gauss decides to turn left or right, it's spontaneous symmetry breaking.",27,3
-"534",1099,"When Gauss plays Ehrenfeucht-Fraïssé game, he always wins.",8,1
-"538",1134,"Gauss once proved the Fundamental Theorem of Algebra by explicitly writing out every nonconstant polynomial over the complex numbers and writing each as a product of linear factors.",46,11
-"539",1235,"Heisenberg came up with the Uncertainty Principle because he was not as certain as Gauss.",75,10
-"540",846,"Gauss can construct an atomic formula consisting solely of quantifiers and logical connectives.",7,1
-"541",1026,"The continuum hypothesis is independent from ZFC because Gauss thought it is more fun to have two theories there.",10,1
-"542",1027,"The most precise statement of the well-ordering theorem is: Gauss has bothered to well-order every set. Since we do not know if he has, it is undecidable.",10,1
-"543",848,"Gauss's ant can escape Langton's highway.",8,0
-"544",804,"Gauss knew the general solution to the n-body problem.",8,1
-"545",805,"Gauss can solve any Rubik's cube in only 1 move. ",49,19
-"546",812,"Gauss can count to aleph one.",28,3
-"548",815,"The only thing Fermat could really prove is that Gauss is always correct.",10,1
-"549",816,"Gauss can fill each of m pigeonholes with n pigeons such that no hole contains more than one pigeon, regardless of whether m > n.",18,1
-"550",817,"Soon, infinity cannot exist any longer. Even the largest numbers cannot run away from Gauss for ever.",16,5
-"552",907,"Gauss builds the Mandelbrot set with ruler and compass.",32,2
-"554",807,"In His great Elimination, Gauss gave us the Triangulars.",16,1
-"555",808,"You'll get the Error when you try to integrate the Gaussian.",33,3
-"556",1174,"Gauss can choose one sock from infinity pairs without the Axiom of Choice.",24,2
-"560",1296,"Gauss can draw circles with a straight edge and lines with a compass",48,9
-"579",2488,"Gauss can grow corn in Z6",25,4
+894,"Gauss can calculate the determinant of a non-square matrix",41,2
+919,"It's acceptable when Carl Gauss uses circular reasoning. (I know because he told me.)",17,5
+896,"Gauss is the only person who knows if Schrödinger's cat's still alive - he doesn't need to look to know this",19,4
+762,"When Hilbert complained that every room in his hotel was full, his friend Gauss did him a favor and found a spot for the next guest.",17,3
+763,"Gauss wins a car no matter what door he opens.",163,6
+782,"Gauss proves the well-ordering theorem by glaring at the set in question until it orders itself out of sheer terror.",75,4
+822,"Black holes are the result of Gauss cutting up stars and reassembling them into peas.",22,2
+1079,"The actual statement of Godel's incompleteness theorem is that every consistent system cannot prove the existence of Gauss ,and it directly implies the version we know nowadays.",14,6
+849,"The annihilator of a ring is actually a finisher wrestling move developed by Gauss.",23,4
+850,"Gauss invented Newton AND Leibniz.",40,16
+942,"Central Limit Theorem was the excuse God invented to obey Gauss.",22,3
+943,"Gauss can count to aleph-one.",21,2
+913,"Gauss knows the momentum and position of everything at all times.",10,3
+914,"The frost on Gauss' beer glass is Bose–Einstein condensate",28,3
+1007,"Gauss proved there were no uninteresting numbers...constructively.",31,0
+1072,"Gauss, only using three sticks whose lenghts are a, b, c, can build a triangle even if a + b < c",20,3
+939,"Gauss doesn't need to use L'Hopital's Rule. Indiscriminate problems just answer themselves for him.",8,1
+940,"Gauss is able to draw a logarithmic plot including the origin.",22,3
+875,"Gauss prefers to work with matrices with an irrational number of entries. ",26,0
+876,"Gauss can make a combination of linearly independent vectors equal 0 (without coefficients of 0) just by brute force.  ",14,4
+1067,"At night, theorems sit around the campfire and tell stories about Gauss .",59,3
+1069,"All your theorems are belong to Gauss.",41,12
+1076,"God and Gauss have a deal.  When God finally stumps Gauss with a theorem to prove, the world will end.  Since we're still on Earth guess how that's going?",14,1
+986,"Gauss proved that there are more real numbers than integer numbers, by counting them.",37,1
+766,"Gauss plays basketball with a Riemann sphere.",35,1
+1073,"Gauss solves Navier-Stokes equations by hand.",15,1
+773,"Gauss chooses his lotto numbers from an undecidable set.",26,4
+897,"Gauss can square the circle and trisecate the angle with compass and straightedge",19,4
+911,"The universe isn't expanding, it is just making more room for Gauss's ideas",32,1
+912,"Protons suffered an emotional breakdown.  Gauss said ""keep it together"" and they haven't decayed since.",27,2
+858,"Gauss knows the last 4 digits of Pi",19,5
+854,"When Carl Gauss is solving the A+B problem, he always reduces it into a NP-hard problem in O(1) time and then solve it in O(1) time.",19,1
+855,"If Gauss finds no correlation, they're independent.",17,0
+857,"Gauss can exactly determine the position and the momentum of a particle with absolute accuracy!",22,7
+833,"Parallel lines intersect anywhere Gauss wants them to.",14,4
+910,"Gauss knows if Schrödinger's cat is alive or dead, and also what collar it wears",16,2
+900,"Whenever Gauss tries to solve a problem in R^4, he generalizes the problem for R^n and then makes n=4.",96,16
+901,"Once, Fermat contrariated Gauss, and the result was ""The Last Fermat Theorem"" (bye bye Fermat!)",13,7
+906,"Gauss doesn't know what the Uncertainty principle is, because he is certain of everything.",20,4
+903,"Gauss discovered non-euclidean geometry, but did not publish it, holding mathematics back for half a century (this one is actually true!)",31,2
+1028,"Gauss had a theory of arithmetic that was consistent and complete. Also, he proved the incompleteness theorems. When God uttered ""But ... isn't there a contradic-"" Gauss disproved his existence.",22,9
+779,"Some numbers are transcendental because Gauss didn't think they were rational enough.",17,0
+1100,"Gauss is an exclusive member of an empty set.",60,4
+1217,"When Gauß died, he did not leave any conjectures but excersises.",43,2
+818,"Gauss could solve an n-dimensional Rubik hypercube. He tried just once.",10,3
+798,"Gauss once said suppose sqrt(2) = p/q where p&q are integers. He found 2 such integers.",16,5
+1180,"Gauss can draw every non-Lebesgue-measurable set.",18,3
+1181,"Gauss knows the next random number",64,3
+945,"Gauss can draw parallel lines on a sphere.",10,3
+947,"Gauss can recite all the digite of pi - backwards.",23,6
+1071,"Cayley's theorem is true because Gauss had only created permutation groups.",8,0
+984,"When Gauss plays as player A, the player A has the winning strategy. When Gauss plays as player B, the player B has the winning strategy.",37,2
+954,"First the earth was without math. And Gauss said, ""Let there be math"". And it was so. And Gauss saw that math was good; and Gauss separated math from everything else. And that was the first day.",27,6
+955,"Gauss's mom never tells him his birthday. Gauss calculates it.",17,2
+980,"The God Particle is actually nature's tribute to Gauss",15,6
+1059,"When Gauss was cremated, he rebuilt himself into two copies of himself using the Banach-Tarski theorem",35,4
+1060,"Gauss can perfectly calculate Chaitin's constants.",11,4
+1061,"If mathematicians were Turing machines, Gauss would be the Busy Beaver.",21,3
+1098,"When Gauss decides to turn left or right, it's spontaneous symmetry breaking.",27,3
+1099,"When Gauss plays Ehrenfeucht-Fraïssé game, he always wins.",8,1
+1134,"Gauss once proved the Fundamental Theorem of Algebra by explicitly writing out every nonconstant polynomial over the complex numbers and writing each as a product of linear factors.",46,11
+1235,"Heisenberg came up with the Uncertainty Principle because he was not as certain as Gauss.",75,10
+846,"Gauss can construct an atomic formula consisting solely of quantifiers and logical connectives.",7,1
+1026,"The continuum hypothesis is independent from ZFC because Gauss thought it is more fun to have two theories there.",10,1
+1027,"The most precise statement of the well-ordering theorem is: Gauss has bothered to well-order every set. Since we do not know if he has, it is undecidable.",10,1
+848,"Gauss's ant can escape Langton's highway.",8,0
+804,"Gauss knew the general solution to the n-body problem.",8,1
+805,"Gauss can solve any Rubik's cube in only 1 move. ",49,19
+812,"Gauss can count to aleph one.",28,3
+815,"The only thing Fermat could really prove is that Gauss is always correct.",10,1
+816,"Gauss can fill each of m pigeonholes with n pigeons such that no hole contains more than one pigeon, regardless of whether m > n.",18,1
+817,"Soon, infinity cannot exist any longer. Even the largest numbers cannot run away from Gauss for ever.",16,5
+907,"Gauss builds the Mandelbrot set with ruler and compass.",32,2
+807,"In His great Elimination, Gauss gave us the Triangulars.",16,1
+808,"You'll get the Error when you try to integrate the Gaussian.",33,3
+1174,"Gauss can choose one sock from infinity pairs without the Axiom of Choice.",24,2
+1296,"Gauss can draw circles with a straight edge and lines with a compass",48,9
+2488,"Gauss can grow corn in Z6",25,4

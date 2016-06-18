@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-raw/
+raw/posts.csv
+raw/posts.sql
