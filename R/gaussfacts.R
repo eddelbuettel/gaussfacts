@@ -13,14 +13,14 @@
 ##' This function displays a randomly chosen line from the included
 ##' data set of of random \sQuote{facts} about Carl Friedrich Gauss.
 ##' It is based on corpus curated by Mike Cavers via the
-##' \url{http://gausfacts.com} site, and kindly made available.
+##' \url{http://gaussfacts.com} site, and kindly made available.
 ##' @title Display a Random Fact about Carl Friedrich Gauss
 ##' @return A character vector containing one randomly selected line
 ##'  from the included file. It is of class \code{gaussfact} for
 ##' which an S3 print method will be invoked.
 ##' @author Dirk Eddelbuettel
 ##' @seealso \code{\link[fortunes:fortunes]{fortune}},
-##'   \code{\link[rmdfacts:rmsfacts]{rmsfacts}}
+##'   \code{\link[rmsfact:rmsfact]{rmsfact}}
 ##' @examples
 ##'   set.seed(123)
 ##'   gaussfact()

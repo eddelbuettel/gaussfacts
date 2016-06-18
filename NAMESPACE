@@ -1,3 +1,5 @@
 exportPattern("^[[:alpha:]]+")
 
 S3method("print", "gaussfact")
+
+importFrom("utils", "read.csv")

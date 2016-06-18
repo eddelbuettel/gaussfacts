@@ -28,7 +28,7 @@ Function to display a randomly chosen fact about Carl Friedrich Gauss
 This function displays a randomly chosen line from the included
 data set of of random \sQuote{facts} about Carl Friedrich Gauss.
 It is based on corpus curated by Mike Cavers via the
-\url{http://gausfacts.com} site, and kindly made available.
+\url{http://gaussfacts.com} site, and kindly made available.
 }
 \examples{
   set.seed(123)
@@ -39,6 +39,6 @@ Dirk Eddelbuettel
 }
 \seealso{
 \code{\link[fortunes:fortunes]{fortune}},
-  \code{\link[rmdfacts:rmsfacts]{rmsfacts}}
+  \code{\link[rmsfact:rmsfact]{rmsfact}}
 }
 
