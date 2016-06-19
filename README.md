@@ -14,7 +14,7 @@ displays another (randomly chosen) fact.
 
 ```{r}
 R> library(gaussfacts)                  # load the package
-R> set.seed()                     # so that this is predictable
+R> set.seed(1)                          # so that this is predictable
 R> gaussfacts()
 Gauss can shave with Occam's razor.
 R>
