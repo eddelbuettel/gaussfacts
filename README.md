@@ -15,7 +15,7 @@ displays another (randomly chosen) fact.
 ```{r}
 R> library(gaussfacts)                  # load the package
 R> set.seed(1)                          # so that this is predictable
-R> gaussfacts()
+R> gaussfact()
 Gauss can shave with Occam's razor.
 R>
 ```
@@ -23,6 +23,15 @@ R>
 ### Package Status
 
 Complete and functional, no dependencies, passes tests.
+
+### Installation
+
+The package is [on CRAN](http://cran.r-project.org/package=gaussfacts) and be
+installed via a standard
+
+```{r}
+R> install.packages("gaussfacts")
+```
 
 ### Author
 
