@@ -26,8 +26,8 @@ Complete and functional, no dependencies, passes tests.
 
 ### Installation
 
-The package is [on CRAN](http://cran.r-project.org/package=gaussfacts) and be
-installed via a standard
+The package is [on CRAN](http://cran.r-project.org/package=gaussfacts) and
+can be installed via a standard
 
 ```{r}
 R> install.packages("gaussfacts")

@@ -1,0 +1,25 @@
+2016-07-19  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/gaussfacts.R (gaussfact): New argument 
+
+	* inst/gaussfacts/gaussfacts.csv: Minor edits, including restoring
+	one ö for Schrödinger
+
+	* DESCRIPTION (Encoding): Added
+
+2016-06-19  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Added
+	* .travis.yml: Added
+
+2016-06-18  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION: Fixes for R CMD check
+	* R/gaussfacts.R: Manual page edits
+
+2016-06-17  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION: Initial commit
+	* NAMESPACE: Ditto
+	* R/gaussfacts.R: Ditto
+	* inst/gaussfacts/gaussfacts.csv: Ditto
