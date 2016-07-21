@@ -5,11 +5,13 @@
 \alias{print.gaussfact}
 \title{Display a Random Fact about Carl Friedrich Gauss}
 \usage{
-gaussfact()
+gaussfact(ind)
 
 \method{print}{gaussfact}(x, width = NULL, ...)
 }
 \arguments{
+\item{ind}{Optional index of a quote; if missing a random value is sampled}
+
 \item{x}{Default object for \code{print} method}
 
 \item{width}{Optional column width parameter}
