@@ -1,6 +1,11 @@
+2016-07-21  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/gaussfacts.R (.read.gf): Set encoding when reading data
+
 2016-07-19  Dirk Eddelbuettel  <edd@debian.org>
 
-	* R/gaussfacts.R (gaussfact): New argument 
+	* R/gaussfacts.R (gaussfact): New optional argument 'ind'
+	* man/gaussfact.Rd: Document new optional argument
 
 	* inst/gaussfacts/gaussfacts.csv: Minor edits, including restoring
 	one ö for Schrödinger

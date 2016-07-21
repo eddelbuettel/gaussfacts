@@ -4,7 +4,7 @@
 .read.gf <- function() {
     filename <- system.file("gaussfacts", "gaussfacts.csv", package="gaussfacts")
     if (!file.exists(filename)) stop("Hm, file", filename, "is missing.", call.=FALSE)
-    data <- read.csv(filename, stringsAsFactors=FALSE)
+    data <- read.csv(filename, stringsAsFactors=FALSE, encoding="UTF-8")
     data[ data[, "vote_yes"] >= 5, ]
 }
 
