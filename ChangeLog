@@ -1,3 +1,7 @@
+2016-08-03  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .travis.yml: Rewritten for run.sh from forked r-travis
+
 2016-07-21  Dirk Eddelbuettel  <edd@debian.org>
 
 	* R/gaussfacts.R (.read.gf): Set encoding when reading data
