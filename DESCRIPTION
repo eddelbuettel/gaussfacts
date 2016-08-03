@@ -2,11 +2,13 @@ Package: gaussfacts
 Type: Package
 Title: The Greatest Mathematician Since Antiquity
 Version: 0.0.2
+Date: 2016-08-03
 Author: Dirk Eddelbuettel
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Description: Display a random fact about Carl Friedrich Gauss
  based the on collection curated by Mike Cavers via the
  <http://gaussfacts.com> site.
+BugReports: https://github.com/eddelbuettel/gaussfacts/issues
 License: GPL (>= 2)
 Encoding: UTF-8
 RoxygenNote: 5.0.1

@@ -1,5 +1,7 @@
 2016-08-03  Dirk Eddelbuettel  <edd@debian.org>
 
+	* DESCRIPTION (Version): Release 0.0.2
+
 	* .travis.yml: Rewritten for run.sh from forked r-travis
 
 2016-07-21  Dirk Eddelbuettel  <edd@debian.org>
@@ -17,6 +19,8 @@
 	* DESCRIPTION (Encoding): Added
 
 2016-06-19  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version): Initial CRAN release 0.0.1
 
 	* README.md: Added
 	* .travis.yml: Added
