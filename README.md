@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/eddelbuettel/gaussfacts.svg)](https://travis-ci.org/eddelbuettel/gaussfacts) 
 [![License](http://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html) 
 [![CRAN](http://www.r-pkg.org/badges/version/gaussfacts)](http://cran.r-project.org/package=gaussfacts) 
+[![Dependencies](https://tinyverse.netlify.com/badge/gaussfacts)](https://cran.r-project.org/package=gaussfacts)
 [![Downloads](http://cranlogs.r-pkg.org/badges/gaussfacts?color=brightgreen)](http://www.r-pkg.org/pkg/gaussfacts)
 [![Last Commit](https://img.shields.io/github/last-commit/eddelbuettel/gaussfacts)](https://github.com/eddelbuettel/gaussfacts)
 
