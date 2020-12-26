@@ -2,6 +2,7 @@
 ## gaussfacts: The Greatest Mathematician Since Antiquity
 
 [![Build Status](https://travis-ci.org/eddelbuettel/gaussfacts.svg)](https://travis-ci.org/eddelbuettel/gaussfacts) 
+[![CI](https://github.com/eddelbuettel/gaussfacts/workflows/ci/badge.svg)](https://github.com/eddelbuettel/gaussfacts/actions?query=workflow%3Aci)
 [![License](http://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html) 
 [![CRAN](http://www.r-pkg.org/badges/version/gaussfacts)](http://cran.r-project.org/package=gaussfacts) 
 [![Dependencies](https://tinyverse.netlify.com/badge/gaussfacts)](https://cran.r-project.org/package=gaussfacts)
