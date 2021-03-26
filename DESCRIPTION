@@ -8,6 +8,7 @@ Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Description: Display a random fact about Carl Friedrich Gauss
  based the on collection curated by Mike Cavers via the
  <http://gaussfacts.com> site.
+URL: https://github.com/eddelbuettel/gaussfacts, http://dirk.eddelbuettel.com/code/gaussfacts.html
 BugReports: https://github.com/eddelbuettel/gaussfacts/issues
 License: GPL (>= 2)
 Encoding: UTF-8
