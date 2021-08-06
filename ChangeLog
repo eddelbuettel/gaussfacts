@@ -1,3 +1,15 @@
+2021-08-05  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Update several URLs to https, update (disappeared)
+	gaussfacts.com to archive.org archival
+	* DESCRIPTION: Ditto
+	* R/gaussfacts.R: Ditto
+	* man/gaussfacts.Rd: Ditto
+
+2021-08-03  Tim Pokart  <tp@timpokart.de>
+
+	* inst/gaussfacts/gaussfacts.csv: Removed duplicate entry
+
 2021-03-26  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (URL): Add URL field with repo and package page

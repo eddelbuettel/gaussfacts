@@ -3,10 +3,10 @@
 
 [![Build Status](https://travis-ci.org/eddelbuettel/gaussfacts.svg)](https://travis-ci.org/eddelbuettel/gaussfacts) 
 [![CI](https://github.com/eddelbuettel/gaussfacts/workflows/ci/badge.svg)](https://github.com/eddelbuettel/gaussfacts/actions?query=workflow%3Aci)
-[![License](http://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html) 
-[![CRAN](http://www.r-pkg.org/badges/version/gaussfacts)](http://cran.r-project.org/package=gaussfacts) 
+[![License](https://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](https://www.gnu.org/licenses/gpl-2.0.html) 
+[![CRAN](https://www.r-pkg.org/badges/version/gaussfacts)](https://cran.r-project.org/package=gaussfacts) 
 [![Dependencies](https://tinyverse.netlify.com/badge/gaussfacts)](https://cran.r-project.org/package=gaussfacts)
-[![Downloads](http://cranlogs.r-pkg.org/badges/gaussfacts?color=brightgreen)](http://www.r-pkg.org/pkg/gaussfacts)
+[![Downloads](https://cranlogs.r-pkg.org/badges/gaussfacts?color=brightgreen)](https://www.r-pkg.org:443/pkg/gaussfacts)
 [![Last Commit](https://img.shields.io/github/last-commit/eddelbuettel/gaussfacts)](https://github.com/eddelbuettel/gaussfacts)
 
 ### Motivation
@@ -16,7 +16,7 @@
 This package displays randomly-chosen _facts_ about
 [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss),
 based on the collection curated by Mike Cavers via the
-[gaussfacts](http://gaussfacts.com) web site. Each call of `gaussfacts()`
+[gaussfacts](https://web.archive.org/web/*/gaussfacts.com) web site. Each call of `gaussfacts()`
 displays another (randomly chosen) fact.
 
 ### Example
@@ -35,7 +35,7 @@ Complete and functional, no dependencies, passes tests.
 
 ### Installation
 
-The package is [on CRAN](http://cran.r-project.org/package=gaussfacts) and
+The package is [on CRAN](https://cran.r-project.org/package=gaussfacts) and
 can be installed via a standard
 
 ```{r}
