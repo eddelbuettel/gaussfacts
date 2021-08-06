@@ -1,3 +1,7 @@
+2021-08-06  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/gaussfacts.R: Remove two 'See Also' references 
+
 2021-08-05  Dirk Eddelbuettel  <edd@debian.org>
 
 	* README.md: Update several URLs to https, update (disappeared)

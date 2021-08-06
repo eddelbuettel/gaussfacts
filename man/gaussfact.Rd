@@ -36,10 +36,6 @@ It is based on corpus curated by Mike Cavers via the
   set.seed(123)
   gaussfact()
 }
-\seealso{
-\code{\link[fortunes:fortunes]{fortune}},
-  \code{\link[rmsfact:rmsfact]{rmsfact}}
-}
 \author{
 Dirk Eddelbuettel
 }

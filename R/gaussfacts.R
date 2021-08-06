@@ -20,8 +20,6 @@
 ##'  from the included file. It is of class \code{gaussfact} for
 ##' which an S3 print method will be invoked.
 ##' @author Dirk Eddelbuettel
-##' @seealso \code{\link[fortunes:fortunes]{fortune}},
-##'   \code{\link[rmsfact:rmsfact]{rmsfact}}
 ##' @examples
 ##'   set.seed(123)
 ##'   gaussfact()
