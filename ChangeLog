@@ -1,3 +1,7 @@
+2021-08-07  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Roll version and date
+
 2021-08-06  Dirk Eddelbuettel  <edd@debian.org>
 
 	* R/gaussfacts.R: Remove two 'See Also' references 
