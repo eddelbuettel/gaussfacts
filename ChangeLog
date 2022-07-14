@@ -1,3 +1,7 @@
+2022-07-14  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Mention Julia port
+
 2021-11-05  Dirk Eddelbuettel  <edd@debian.org>
 
  	* README.md: Remove Travis badge

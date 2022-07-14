@@ -41,6 +41,11 @@ can be installed via a standard
 R> install.packages("gaussfacts")
 ```
 
+### Ports
+
+A [Julia port](https://github.com/eliascarv/GaussFacts.jl) is available
+thanks to [Elias Carvalho](https://github.com/eliascarv).
+
 ### Author
 
 Dirk Eddelbuettel
