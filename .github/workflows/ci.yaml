@@ -25,6 +25,8 @@ jobs:
 
       - name: Setup
         uses: eddelbuettel/github-actions/r-ci@master
+        with:
+          backend: 'RAPT'
 
       - name: Dependencies
         run: ./run.sh install_all
