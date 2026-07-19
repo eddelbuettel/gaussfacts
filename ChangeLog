@@ -1,3 +1,8 @@
+2026-07-19  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/gaussfacts.R: Remove duplicate word
+	* man/gaussfacts.Rd: Idem
+
 2026-03-31  Dirk Eddelbuettel  <edd@debian.org>
 
 	* .github/workflows/ci.yaml (jobs): Use rapt backend
