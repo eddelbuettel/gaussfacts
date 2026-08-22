@@ -1,6 +1,8 @@
 2026-08-22  Dirk Eddelbuettel  <edd@debian.org>
 
-	* README.md: Add r-universe badge, mention myman packate
+	* inst/NEWS.Rd: Added belatedly
+
+	* README.md: Add r-universe badge, mention myman package
 
 2026-08-09  Dirk Eddelbuettel  <edd@debian.org>
 
