@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](https://www.gnu.org/licenses/gpl-2.0.html) 
 [![CRAN](https://www.r-pkg.org/badges/version/gaussfacts)](https://cran.r-project.org/package=gaussfacts) 
 [![Dependencies](https://tinyverse.netlify.app/badge/gaussfacts)](https://cran.r-project.org/package=gaussfacts)
+[![r-universe](https://eddelbuettel.r-universe.dev/badges/gaussfacts)](https://eddelbuettel.r-universe.dev/gaussfacts)
 [![Downloads](https://cranlogs.r-pkg.org/badges/gaussfacts?color=brightgreen)](https://www.r-pkg.org:443/pkg/gaussfacts)
 [![Last Commit](https://img.shields.io/github/last-commit/eddelbuettel/gaussfacts)](https://github.com/eddelbuettel/gaussfacts)
 
@@ -45,6 +46,11 @@ R> install.packages("gaussfacts")
 
 A [Julia port](https://github.com/eliascarv/GaussFacts.jl) is available
 thanks to [Elias Carvalho](https://github.com/eliascarv).
+
+### See Also
+
+The [myman](https://eddelbuettel.r-universe.dev/myman) package also delivers
+a delightful set to draw from just like this package does.
 
 ### Author
 

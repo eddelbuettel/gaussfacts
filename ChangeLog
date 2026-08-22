@@ -1,3 +1,7 @@
+2026-08-22  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Add r-universe badge, mention myman packate
+
 2026-08-09  Dirk Eddelbuettel  <edd@debian.org>
 
 	* .github/workflows/ci.yaml: Switch to actions/checkout@v7
