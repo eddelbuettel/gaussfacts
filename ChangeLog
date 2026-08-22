@@ -1,5 +1,9 @@
 2026-08-22  Dirk Eddelbuettel  <edd@debian.org>
 
+	* README.md: Restore www.gaussfacts.com URL
+	* R/gaussfacts.com: Idem
+	* man/gaussfacts.Rd: Idem
+
 	* inst/NEWS.Rd: Added belatedly
 
 	* README.md: Add r-universe badge, mention myman package

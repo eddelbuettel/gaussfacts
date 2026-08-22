@@ -13,10 +13,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Carl_Friedrich_Gauss.jpg" width="320">
 
-This package displays randomly-chosen _facts_ about
-[Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss),
-based on the collection curated by Mike Cavers via the
-[gaussfacts](https://web.archive.org/web/*/gaussfacts.com) web site. Each call of `gaussfacts()`
+This package displays randomly-chosen _facts_ about [Carl Friedrich
+Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), based on the collection curated by Mike
+Cavers via the [gaussfacts](https://www.gaussfacts.com) web site. Each call of `gaussfacts()`
 displays another (randomly chosen) fact.
 
 ### Example

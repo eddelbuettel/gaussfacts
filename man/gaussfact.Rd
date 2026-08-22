@@ -30,7 +30,7 @@ Function to display a randomly chosen fact about Carl Friedrich Gauss
 This function displays a randomly chosen line from the included
 data set of random \sQuote{facts} about Carl Friedrich Gauss.
 It is based on corpus curated by Mike Cavers via the
-\url{https://web.archive.org/web/*/gaussfacts.com} site, and kindly made available.
+\url{https://www.gaussfacts.com} site, and kindly made available.
 }
 \examples{
   set.seed(123)
