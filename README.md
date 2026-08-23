@@ -2,7 +2,7 @@
 ## gaussfacts: The Greatest Mathematician Since Antiquity
 
 [![CI](https://github.com/eddelbuettel/gaussfacts/workflows/ci/badge.svg)](https://github.com/eddelbuettel/gaussfacts/actions?query=workflow%3Aci)
-[![License](https://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](https://www.gnu.org/licenses/gpl-2.0.html) 
+[![License](https://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](https://www.r-project.org/Licenses/GPL-2)
 [![CRAN](https://www.r-pkg.org/badges/version/gaussfacts)](https://cran.r-project.org/package=gaussfacts) 
 [![Dependencies](https://tinyverse.netlify.app/badge/gaussfacts)](https://cran.r-project.org/package=gaussfacts)
 [![r-universe](https://eddelbuettel.r-universe.dev/badges/gaussfacts)](https://eddelbuettel.r-universe.dev/gaussfacts)
@@ -15,7 +15,7 @@
 
 This package displays randomly-chosen _facts_ about [Carl Friedrich
 Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), based on the collection curated by Mike
-Cavers via the [gaussfacts](https://www.gaussfacts.com) web site. Each call of `gaussfacts()`
+Cavers via the [gaussfacts](https://web.archive.org/web/*/gaussfacts.com) web site. Each call of `gaussfacts()`
 displays another (randomly chosen) fact.
 
 ### Example

@@ -9,9 +9,9 @@
     enhancements
     \item Additional README.md badges
     \item Updates to DESCRIPTION as CRAN requirements change
-    \item A duplicate data entry has been removed (Tim Pokart in \ghpr{3})
+    \item A duplicate data entry has been removed (Tim Pokart in \ghpr{4})
     \item Documentation prefers https URLs
-    \item Updated continunous integration multiple times
+    \item Updated continunous integration multiple times (including \ghpr{3}) 
     \item Correct man page removing an erroneous duplicate word
   }
 }
@@ -19,8 +19,9 @@
 \section{Changes in version 0.0.2 (2016-08-03)}{
   \itemize{
     \item Support 'ind' argument to reference by position
-    \item Clean-up encoding and support extended character set (\ghpr{#1})
-    \item Updated continunous integration (\ghpr{#2})
+    \item Clean-up encoding and support extended character set (\ghpr{2}
+    closes \ghit{1})
+    \item Updated continunous integration (\ghpr{2})
   }
 }
 
