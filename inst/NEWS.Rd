@@ -21,7 +21,7 @@
     \item Support 'ind' argument to reference by position
     \item Clean-up encoding and support extended character set (\ghpr{2}
     closes \ghit{1})
-    \item Updated continunous integration (\ghpr{2})
+    \item Updated continunous integration (\ghpr{3})
   }
 }
 

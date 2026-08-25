@@ -15,7 +15,8 @@
 ##' It is based on corpus curated by Mike Cavers via the
 ##' \url{https://web.archive.org/web/*/gaussfacts.com} site, and kindly made available.
 ##' @title Display a Random Fact about Carl Friedrich Gauss
-##' @param ind Optional index of a quote; if missing a random value is sampled
+##' @param ind Optional index of a quote, or character expression to be matched;
+##' if missing a random index value is sampled
 ##' @return A character vector containing one randomly selected line
 ##'  from the included file. It is of class \code{gaussfact} for
 ##' which an S3 print method will be invoked.
@@ -30,6 +31,8 @@ gaussfact <- function(ind) {
     if (missing(ind)) {
         n <- nrow(gf.data)
         ind <- sample(1:n, 1)
+    } else if (is.character(ind)) {
+        ind <- grep(ind, gf.data[,"story"])
     }
     v <- as.character(gf.data[ind,"story"])
     class(v) <- "gaussfact"

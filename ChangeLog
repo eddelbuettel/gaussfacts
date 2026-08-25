@@ -1,3 +1,8 @@
+2026-08-25  Dirk Eddelbuettel  <edd@debian.org>
+
+	* R/gaussfacts.R (gaussfact): Support character argument
+	* man/gaussfact.Rd: Regenerated
+
 2026-08-23  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Version, Date): Release 0.0.3
