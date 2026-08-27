@@ -1,3 +1,7 @@
+2026-08-27  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Correct (old) typo
+
 2026-08-25  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Version, Date): Roll micro version and date

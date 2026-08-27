@@ -15,8 +15,8 @@
 
 This package displays randomly-chosen _facts_ about [Carl Friedrich
 Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), based on the collection curated by Mike
-Cavers via the [gaussfacts](https://web.archive.org/web/*/gaussfacts.com) web site. Each call of `gaussfacts()`
-displays another (randomly chosen) fact.
+Cavers via the [gaussfacts](https://web.archive.org/web/*/gaussfacts.com) web site. Each call of
+`gaussfact()` displays another (randomly chosen) fact.
 
 ### Example
 
