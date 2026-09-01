@@ -3,6 +3,13 @@
 \newcommand{\ghpr}{\href{https://github.com/eddelbuettel/gaussfacts/pull/#1}{##1}}
 \newcommand{\ghit}{\href{https://github.com/eddelbuettel/gaussfacts/issues/#1}{##1}}
 
+\section{Changes in version 0.0.4 (2026-09-01)}{
+  \itemize{
+    \item Support character argument to support lookup via regular expression
+    \item Correct one old typo in README.md
+  }
+}
+
 \section{Changes in version 0.0.3 (2026-08-23)}{
   \itemize{
     \item Several rounds of continuous integration maintenance and
